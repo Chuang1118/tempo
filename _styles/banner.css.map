@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["banner.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA","sourcesContent":[".banner {\n  display: block;\n  width: 100%;\n  clip-path: polygon(0 0, 100% 0%, 100% 50%, 0 100%, 0% 50%);\n}"],"file":"banner.css"}

@@ -1,0 +1,44 @@
+[data-dark=false] {
+  --primary: #023047;
+  --secondary:#8ECAE6;
+  --text: #202427;
+  --background: #f1f3f4;
+  --background-alt: #ecedf2;
+  --light-gray: #a8adb4;
+  --gray: #767f8a;
+  --dark-gray: #464b53;
+  --overlay: #00000020;
+}
+
+[data-dark=true] {
+  --primary: #8ECAE6;
+  --secondary: #219EBC;
+  --text: #f1f3f4;
+  --background: #023047;
+  --background-alt: #012232;
+  --light-gray: #767f8a;
+  --gray: #a8adb4;
+  --dark-gray: #ecedf2;
+  --overlay: #ffffff10;
+}
+
+:root {
+  --title: "Inter", sans-serif;
+  --heading: "Inter", sans-serif;
+  --body: "Inter", sans-serif;
+  --code: "Roboto Mono", monospace;
+  --large: 1.2rem;
+  --xl: 1.4rem;
+  --xxl: 1.6rem;
+  --thin: 200;
+  --regular: 400;
+  --semi-bold: 500;
+  --bold: 600;
+  --spacing: 2;
+  --compact: 1.5;
+  --rounded: 3px;
+  --shadow: 0 0 0px 0 var(--overlay);
+  --transition: 0.2s ease;
+}
+
+/*# sourceMappingURL=-theme.css.map */
