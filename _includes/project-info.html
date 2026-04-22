@@ -1,0 +1,102 @@
+<div class="project-info">
+  <div class="project-people">
+  {% if include.investigators %}
+    {% assign investigators = include.investigators
+      | join: ","
+      | downcase
+      | split: ","
+      | array_filter
+    %}
+      {% for investigator in investigators %}
+        {% assign member = site.members
+          | where_exp: "member", "member.slug == investigator"
+          | first
+        %}
+        {% if member %}
+          {% include portrait.html lookup=investigator style="tiny" tooltip="Investigator" show_name=include.show_name %}
+        {% else %}
+            {% include icon.html icon="fa-solid fa-feather-pointed" %}
+            <span data-tooltip="Investigator">{{ investigator }}</span>
+        {% endif %}
+      {% endfor %}
+  {% endif %}
+  {% if include.supervisors %}
+    {% assign supervisors = include.supervisors
+      | join: ","
+      | downcase
+      | split: ","
+      | array_filter
+    %}
+    {% for supervisor in supervisors %}
+      {% assign member = site.members
+        | where_exp: "member", "member.slug == supervisor"
+        | first
+      %}
+      {% if member %}
+        {% include portrait.html lookup=supervisor style="tiny" tooltip="Supervisor" show_name=include.show_name %}
+      {% else %}
+          {% include icon.html icon="fa-solid fa-feather-pointed" %}
+          <span data-tooltip="Supervisor">{{ supervisor }}</span>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  </div>
+  {% if include.collaborators %}
+    <div class="project-people">
+    {% assign collaborators = include.collaborators
+      | join: ","
+      | downcase
+      | split: ","
+      | array_filter
+    %}
+    {% for collaborator in collaborators %}
+      {% assign external_collaborator = site.external_collaborators
+        | where_exp: "external_collaborator", "external_collaborator.slug == collaborator"
+        | first
+      %}
+      <span data-tooltip="External collaborator">
+        {% include icon.html icon="fa-regular fa-handshake" %}
+        {% if external_collaborator %}
+          <a href="{{ external_collaborator.links.home-page }}">
+            {{ external_collaborator.name }}
+          </a>
+        {% else %}
+            {{ collaborator }}
+        {% endif %}
+      </span>
+    {% endfor %}
+    </div>
+  {% endif %}
+  {% assign start_date = include.start_date | date: "%Y" %}
+  {% assign end_date = include.end_date | date: "%Y" %}
+  {% assign website = include.link | relative_url | uri_escape %}
+  <div class="project-metadata">
+    {% if start_date %}
+      <span data-tooltip="Start date">
+        {% include icon.html icon="fa-regular fa-calendar" %}
+        <span>{{ start_date }}</span>
+      </span>
+    {% endif %}
+    <span>-</span>
+    {% if end_date and end_date != "" and end_date != start_date %}
+      <span data-tooltip="End date">
+        <span>{{ end_date }}</span>
+      </span>
+    {% else %}
+      <span data-tooltip="Ongoing">
+        {% include icon.html icon="fa-solid fa-infinity" %}
+      </span>
+    {% endif %}
+    {% if website %}
+      <span data-tooltip="Website">
+        <a href="{{ website }}">
+          {% include icon.html icon="fa-solid fa-arrow-up-right-from-square" %}Project website
+        </a>
+      </span>
+    {% endif %}
+  </div>
+</div>
+
+{% if include.tags %}
+  {% include tags.html tags=include.tags link="research" %}
+{% endif %}

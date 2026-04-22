@@ -1,0 +1,67 @@
+{% if include.lookup %}
+  {% assign project = site.projects 
+    | where_exp: "project", "project.slug == include.lookup"
+    | first
+    | default: include
+  %}
+{% else %}
+  {% assign project = include %}
+{% endif %}
+
+{% assign url = project.url | relative_url | uri_escape %}
+{% assign title = project.title %}
+{% assign image = project.image | relative_url | uri_escape %}
+{% if include.glider %}
+<div class="glide__slide">
+{% endif %}
+<div class="project-excerpt-card" data-style="{{ include.style }}">
+  
+  <a
+    href="{{ url }}"
+    aria-label="{{ title | default: "card link" | regex_strip }}"
+    class="card-image"
+  >
+    <img
+      src="{{ image }}"
+      alt="{{ title | default: "card image" | regex_strip }}"
+      loading="lazy"
+      {% include fallback.html %}
+    >
+  </a>
+
+  <div class="card-text">
+    {% if include.title %}
+      <a href="{{ url }}" class="card-title">{{ include.title }}</a>
+    {% endif %}
+
+    {%
+      include project-info.html
+      investigators=project.investigators
+      supervisors=project.supervisors
+      show_name=false
+      link=project.link
+      start_date=project.start_date
+      end_date=project.end_date
+      tags=project.tags
+    %}
+
+    {% assign excerpt = project.content
+      | default: ""
+      | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
+      | default: project.excerpt
+      | default: ""
+      | strip_html
+    %}
+    {% assign search = project.content
+      | strip_html
+      | strip_newlines
+      | regex_strip
+    %}
+    <p data-search="{{ search }}">
+      {{ excerpt }}
+    </p>
+  </div>
+</div>
+{% if include.glider %}
+</div>
+{% endif %}

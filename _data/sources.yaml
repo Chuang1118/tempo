@@ -1,0 +1,325 @@
+# Provide additional metadata for resources fetched from ORCID (use same id as the one
+# automatically generated in citations.yaml), etc. or use to add manual entries
+
+# Peer-reviewed papers
+# 2026
+- id: doi:10.3390/metabo16020145
+  type: paper
+  group: featured
+  image: https://www.mdpi.com/metabolites/metabolites-16-00145/article_deploy/html/images/metabolites-16-00145-g001-550.jpg
+  description: test
+  tags:
+  - new0
+
+#2025
+ 
+- id: doi:10.1038/s41375-025-02555-0
+  type: paper
+  group: featured
+  image: https://www.nature.com/articles/s41375-025-02555-0/figures/1
+  description: test
+  tags:
+  - new1
+
+- id: doi:10.1182/blood.2024025738
+  type: paper
+  group: featured
+  image: https://ashpublications.org/view-large/figure/12557533/BLOOD_BLD-2024-025738-gr1ad.jpg
+  description: test
+  tags:
+  - new2
+
+- id: doi:10.1186/s12882-025-04014-5
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d5e1/11931814/04280783f961/12882_2025_4014_Fig1_HTML.gif
+  description: test
+  tags:
+  - new3
+
+- id: doi:10.1007/s00277-025-06200-9
+  type: paper
+  group: featured
+  image: hhttps://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b06/12141416/d7b80e4f58a4/277_2025_6200_Fig1_HTML.jpg
+  description: test
+  tags:
+  - new4
+
+- id: doi:10.1002/1873-3468.15074
+  type: paper
+  group: featured
+  image: https://febs.onlinelibrary.wiley.com/cms/asset/9ffbc0ca-4c7a-47e1-bcc2-5aae6c99ad27/feb215074-fig-0001-m.jpg
+  description: test
+  tags:
+  - new5  
+
+- id: doi:10.1182/blood.2023022197
+  type: paper
+  group: featured
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006497124114607-BLOOD_BLD-2023-022197R1-ga1.jpg
+  description: test
+  tags:
+  - new6
+
+- id: doi:10.3390/biology14060624
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4718/12189830/491dc2f3fe9d/biology-14-00624-g001.gif
+  description: test
+  tags:
+  - new7
+
+- id: doi:10.1002/jha2.70019
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8e80/11920810/0372cf7a81bd/JHA2-6-e70019-g001.gif
+  description: test
+  tags:
+  - new8
+
+- id: doi:10.1002/ajh.27650
+  type: paper
+  group: featured
+  image: https://onlinelibrary.wiley.com/cms/asset/5411f573-a3c4-4cc1-8c4f-2cf4876aa3e8/ajh27650-fig-0001-m.jpg
+  description: test
+  tags:
+  - new9
+
+- id: doi:10.1002/hem3.70065
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c388/11746920/8f967574c58f/HEM3-9-e70065-g002.jpg
+  description: test
+  tags: 
+  - new10
+
+- id: doi:10.1186/s13045-025-01725-y
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/62a7/12281749/80ee23afdf56/13045_2025_1725_Fig1_HTML.jpg
+  description: test
+  tags:
+  - new11
+
+- id: doi:10.1038/s41375-025-02615-5
+  type: paper
+  group: featured
+  image: https://www.nature.com/articles/s41375-025-02615-5/figures/1
+  description: test
+  tags:
+  - new12-1
+
+- id: doi:10.1038/s41375-025-02755-8 
+  type: paper
+  group: featured
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41375-025-02755-8/MediaObjects/41375_2025_2755_Fig1_HTML.png
+  description: test
+  tags:
+  - new12-2
+# 2024
+- id: doi:10.3324/haematol.2023.283141
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cf06/10772506/c0d6cb6a5435/109325.fig1.jpg
+  description: test
+  tags:
+  - new12-3
+
+- id: doi:10.3389/fimmu.2024.1407981
+  type: paper
+  group: featured
+  description: test
+  tags:
+  - new13
+
+- id: doi:10.1038/s41467-024-51264-2
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7542/11316063/4facd83305fe/41467_2024_51264_Fig1_HTML.jpg
+  description: test
+  tags:
+  - new14 
+
+- id: doi:10.1002/ajh.27357 
+  type: paper
+  group: featured
+  image: https://onlinelibrary.wiley.com/cms/asset/91d6e268-82bb-41e6-b781-37022f1347a2/ajh27357-fig-0001-m.jpg
+  description: test
+  tags:
+  - new15
+
+- id: PMID:40546206 
+  type: paper
+  group: featured
+  description: test
+  tags:
+  - new16  
+
+- id: doi:10.1038/s41598-024-73027-1
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/06d1/11415367/39afb3caa2c3/41598_2024_73027_Fig1_HTML.gif
+  description: test
+  tags:
+  - new17
+
+#2023
+- id: doi:10.1038/s41467-022-34642-6
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7167/9852595/8c327c8fd552/41467_2022_34642_Fig1_HTML.gif
+  description: test
+  tags:
+  - new18
+
+- id: doi:10.1182/blood.2022015581
+  type: paper
+  group: featured
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/142/17/10.1182_blood.2022015581/2/blood_bld-2022-015581-ga1.jpeg
+  description: test
+  tags:
+  - new19
+
+- id: DOI:10.1038/s41375-022-01802-y 
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c6fa/9898037/b3de1ef0c449/41375_2022_1802_Fig1_HTML.gif
+  description: test
+  tags:
+  - new20
+
+- id: DOI:10.1038/s41417-023-00602-5 
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab4e/10353928/45cf132529b3/41417_2023_602_Fig1_HTML.gif
+  description: test
+  tags:
+  - new21
+
+- id: DOI:10.3390/ijms242417623 
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c4fd/10744074/f5aec48d61d8/ijms-24-17623-g001.gif
+  description: test
+  tags:
+  - new22
+
+# 2022
+- id: DOI:10.3389/fimmu.2022.1029759 
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2175/9647545/26f5e40f9d69/fimmu-13-1029759-g001.gif
+  description: test
+  tags:
+  - new23
+
+- id: DOI:10.46439/immunol.1.011
+  type: paper
+  group: featured
+  image: https://www.probiologists.com/public/assets/images/uploads/image-1734346230-1.jpg
+  description: test
+  tags:
+  - new24
+
+- id: DOI:10.1002/jha2.434 
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e854/9422018/c81acc105d21/JHA2-3-913-g002.gif
+  description: test
+  tags:
+  - new25
+
+- id: DOI:10.1684/abc.2021.1692 
+  type: paper
+  group: featured
+  description: test
+  tags:
+  - new26
+
+- id: DOI:10.3389/fonc.2022.841630
+  type: paper
+  group: featured
+  description: test
+  tags:
+  - new27
+
+- id: DOI:10.1002/ajh.26479 
+  type: paper
+  group: featured
+  description: test
+  tags:
+  - new28
+
+- id:  DOI:10.1182/bloodadvances.2021006169 
+  type: paper
+  group: featured
+  image: hhttps://cdn.ncbi.nlm.nih.gov/pmc/blobs/6e07/9631672/7c6637fe3aee/advancesADV2021006169absf1.jpg
+  description: test
+  tags:
+  - new29
+
+
+
+- id: doi:10.1002/ajh.27357
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/91d6e268-82bb-41e6-b781-37022f1347a2/ajh27357-fig-0001-m.jpg
+  description: test
+  tags:
+  - test2
+
+- id: doi:10.3390/ijms242417623
+  type: paper
+  image: https://www.mdpi.com/ijms/ijms-24-17623/article_deploy/html/images/ijms-24-17623-g001-550.jpg
+  description: test
+  tags:
+  - test3
+
+- id: doi:10.1038/s41417-023-00602-5
+  type: paper
+  image: https://www.nature.com/articles/s41417-023-00602-5/figures/1
+  description: test
+  tags:
+  - test4
+
+- id: doi:10.1182/bloodadvances.2021006169
+  type: paper
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/6/16/10.1182_bloodadvances.2021006169/4/m_advancesadv2021006169absf1.png?Expires=1775782048&Signature=SHIdrBVHR8H0FoRtDSL2qr2h80t0gCl4Ss1H8kDoNN-utSRrowXc-sckZ8UPSrhkSR1OwaFKMBVkSEwnDaKih56P70uPyI7KjpDJ3fG~T-~s8xTLHUCKcjVNhylDg5qaxYlzYCmetFbTZ3DrKpLM6J7jtJ~cj7WlyfS37ZACCu-TMSFmMS1n85MQ2PtFQcimMxvJoZAn24KZu~tfxGlMSIxkIs7CdeXCu5m4bkk~YTyRFqtKuw7cDKdbSrWdQU4l9yXv4qRjFKVS0VY~ZDuZdTxcZN27~efe3ExiFUSFzwGpIlKWqwWU9x0qg39RjfmlpH1iM-lnWrcw6gQQCNp7SA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  description: test
+  tags:
+  - test5
+
+- id: doi:10.3389/fonc.2022.841630
+  type: paper
+  tags:
+  - test6
+
+- id: doi:10.1016/j.ccell.2021.02.003
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1535610821001057-fx1.jpg
+  tags:
+  - test7
+
+- id: doi:10.1016/j.cellsig.2021.110079
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0898656821001686-gr1.jpg
+  tags:
+  - test8
+
+- id: doi:10.1016/j.cellsig.2020.109673
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0898656820301509-gr1.jpg
+  tags:
+  - test9
+
+- id: doi:10.1038/s41388-020-1183-x
+  type: paper
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41388-020-1183-x/MediaObjects/41388_2020_1183_Fig1_HTML.png
+  tags:
+  - test10
+
+- id: doi:10.1038/srep39766
+  type: paper
+  image: https://www.nature.com/articles/srep39766/figures/1
+  tags:
+  - test11
+  

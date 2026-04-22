@@ -1,0 +1,2541 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.18632/oncotarget.9031
+  title: Protein kinase D-dependent CXCR4 down-regulation upon BCR triggering is linked
+    to lymphadenopathy in chronic lymphocytic leukaemia
+  authors:
+  - "St\xE9phane Saint-Georges"
+  - Maude Quettier
+  - Marouane Bouyaba
+  - "St\xE9phanie Le Coquil"
+  - "Vanessa Laurient\xE9"
+  - Lionel Guittat
+  - "Vincent L\xE9vy"
+  - Florence Ajchenbaum-Cymbalista
+  - Nadine Varin-Blank
+  - Christine Le Roy
+  - Dominique Ledoux
+  publisher: Oncotarget
+  date: '2016-04-26'
+  link: https://doi.org/f9j33w
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2022.1029759
+  title: Insulin-regulated aminopeptidase contributes to setting the intensity of
+    FcR-mediated inflammation
+  authors:
+  - Manuela Bratti
+  - Shamila Vibhushan
+  - "Cyril Long\xE9"
+  - Despoina Koumantou
+  - "Ga\xEBl M\xE9nasch\xE9"
+  - Marc Benhamou
+  - Nadine Varin-Blank
+  - Ulrich Blank
+  - Loredana Saveanu
+  - Sanae Ben Mkaddem
+  publisher: Frontiers in Immunology
+  date: '2022-10-27'
+  link: https://doi.org/hbswq5
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cellsig.2021.110079
+  title: "Regulatory interplay between Vav1, Syk and \u03B2-catenin occurs in lung\
+    \ cancer cells"
+  authors:
+  - Rofia Boudria
+  - "Vanessa Laurient\xE9"
+  - Antonin Oudar
+  - Souleymane Harouna-Rachidi
+  - Elisabetta Dondi
+  - Christine Le Roy
+  - Laura Gardano
+  - Nadine Varin-Blank
+  - Lionel Guittat
+  publisher: Cellular Signalling
+  date: '2021-10-01'
+  link: https://doi.org/hbswq6
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0898656821001686-gr1.jpg
+  tags:
+  - test8
+- id: doi:10.1093/rheumatology/keaa432
+  title: Skewed peripheral B- and T-cell compartments in patients with ANCA-associated
+    vasculitis
+  authors:
+  - Jonathan London
+  - Nicolas Dumoitier
+  - "S\xE9bastien Lofek"
+  - "J\xE9r\xE9mie Dion"
+  - Benjamin Chaigne
+  - Julie Mocek
+  - Nathalie Thieblemont
+  - Pascal Cohen
+  - Claire Le Jeunne
+  - "Lo\xEFc Guillevin"
+  - "V\xE9ronique Witko-Sarsat"
+  - Nadine Varin-Blank
+  - Benjamin Terrier
+  - Luc Mouthon
+  publisher: Rheumatology
+  date: '2020-10-07'
+  link: https://doi.org/gp3937
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cellsig.2020.109673
+  title: The adaptor protein APS modulates BCR signalling in mature B cells
+  authors:
+  - Elisabetta Dondi
+  - Jean-Baptiste Sibarita
+  - Nadine Varin-Blank
+  - Laura Velazquez
+  publisher: Cellular Signalling
+  date: '2020-09-01'
+  link: https://doi.org/hbswq7
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0898656820301509-gr1.jpg
+  tags:
+  - test9
+- id: doi:10.1038/s41388-020-1183-x
+  title: "Stabilization of \u03B2-catenin upon B-cell receptor signaling promotes\
+    \ NF-kB target genes transcription in mantle cell lymphoma"
+  authors:
+  - Gregory Lazarian
+  - Chloe Friedrich
+  - Anne Quinquenel
+  - Julie Tran
+  - Souhail Ouriemmi
+  - Elisabetta Dondi
+  - Antoine Martin
+  - Imane Mihoub
+  - David Chiron
+  - "C\xE9line Bellanger"
+  - Carole Fleury
+  - "Pascal G\xE9l\xE9bart"
+  - Emmet McCormack
+  - Dominique Ledoux
+  - Catherine Thieblemont
+  - Jacek Marzec
+  - John G. Gribben
+  - Florence Cymbalista
+  - Nadine Varin-Blank
+  - Laura Gardano
+  - Fanny Baran-Marszak
+  publisher: Oncogene
+  date: '2020-02-07'
+  link: https://doi.org/gm48wg
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41388-020-1183-x/MediaObjects/41388_2020_1183_Fig1_HTML.png
+  tags:
+  - test10
+- id: doi:10.1186/s13046-017-0556-7
+  title: Induction of endoplasmic reticulum calcium pump expression during early leukemic
+    B cell differentiation
+  authors:
+  - "Lamia A\xEFt Ghezali"
+  - Atousa Arbabian
+  - "Herv\xE9 Roudot"
+  - Jean-Philippe Brouland
+  - Fanny Baran-Marszak
+  - Evelyn Salvaris
+  - Andrew Boyd
+  - Hans G. Drexler
+  - Agnes Enyedi
+  - Remi Letestu
+  - Nadine Varin-Blank
+  - Bela Papp
+  publisher: Journal of Experimental &amp; Clinical Cancer Research
+  date: '2017-06-26'
+  link: https://doi.org/hbswq8
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/art.40016
+  title: "Scleroderma Peripheral B Lymphocytes Secrete Interleukin\u20106 and Transforming\
+    \ Growth Factor \u03B2 and Activate Fibroblasts"
+  authors:
+  - Nicolas Dumoitier
+  - Benjamin Chaigne
+  - "Alexis R\xE9gent"
+  - "S\xE9bastien Lofek"
+  - Maissa Mhibik
+  - "Peter Dorfm\xFCller"
+  - Benjamin Terrier
+  - Jonathan London
+  - "Alice B\xE9rezn\xE9"
+  - Nicolas Tamas
+  - "Nadine Varin\u2010Blank"
+  - Luc Mouthon
+  publisher: Arthritis &amp; Rheumatology
+  date: '2017-04-26'
+  link: https://doi.org/hbswq9
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep39766
+  title: Phosphorylation impact on Spleen Tyrosine kinase conformation by Surface
+    Enhanced Raman Spectroscopy
+  authors:
+  - Maximilien Cottat
+  - Ryohei Yasukuni
+  - Yo Homma
+  - Nathalie Lidgi-Guigui
+  - Nadine Varin-Blank
+  - Marc Lamy de la Chapelle
+  - Christine Le Roy
+  publisher: Scientific Reports
+  date: '2017-01-05'
+  link: https://doi.org/f9jmn6
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://www.nature.com/articles/srep39766/figures/1
+  tags:
+  - test11
+- id: doi:10.1002/ijc.30222
+  title: TP53 mutations are early events in chronic lymphocytic leukemia disease progression
+    and precede evolution to complex karyotypes
+  authors:
+  - Gregory Lazarian
+  - Eugen Tausch
+  - Virginie Eclache
+  - Amel Sebaa
+  - Vincent Bianchi
+  - Remi Letestu
+  - "Jean\u2010Francois Collon"
+  - Valerie Lefebvre
+  - Laura Gardano
+  - "Nadine Varin\u2010Blank"
+  - Thierry Soussi
+  - Stephen Stilgenbauer
+  - Florence Cymbalista
+  - "Fanny Baran\u2010Marszak"
+  publisher: International Journal of Cancer
+  date: '2016-06-24'
+  link: https://doi.org/f3vc79
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jcmm.12887
+  title: "Cellular response to alkylating agent <scp>MNNG</scp> is impaired in <scp>STAT</scp>1\u2010\
+    deficients cells"
+  authors:
+  - "Laurent Ah\u2010Koon"
+  - Denis Lesage
+  - Elodie Lemadre
+  - "In\xE8s Souissi"
+  - Remi Fagard
+  - "Nadine Varin\u2010Blank"
+  - Emmanuelle E. Fabre
+  - Olivier Schischmanoff
+  publisher: Journal of Cellular and Molecular Medicine
+  date: '2016-07-27'
+  link: https://doi.org/f85tr2
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/exd.12937
+  title: 'Biological processes in solar lentigo: insights brought by experimental
+    models'
+  authors:
+  - Ranesha Goorochurn
+  - "C\xE9cline Viennet"
+  - Corinne Granger
+  - Ferial Fanian
+  - "Nadine Varin\u2010Blank"
+  - Christine Le Roy
+  - Philippe Humbert
+  publisher: Experimental Dermatology
+  date: '2016-03-01'
+  link: https://doi.org/f8gt8m
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2015-02-628560
+  title: CD9, a key actor in the dissemination of lymphoblastic leukemia, modulating
+    CXCR4-mediated migration via RAC1 signaling
+  authors:
+  - Marie-Pierre Arnaud
+  - "Audrey Vall\xE9e"
+  - Guillaume Robert
+  - Jacinthe Bonneau
+  - Christine Leroy
+  - Nadine Varin-Blank
+  - "Anne-Ga\xEBlle Rio"
+  - "Marie-B\xE9reng\xE8re Troadec"
+  - Marie-Dominique Galibert
+  - Virginie Gandemer
+  publisher: Blood
+  date: '2015-10-08'
+  link: https://doi.org/f72gg9
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ijc.29326
+  title: "Inhibitors of <scp>BCR</scp> signalling interrupt the survival signal mediated\
+    \ by the micro\u2010environment in mantle cell lymphoma"
+  authors:
+  - Sophie Bernard
+  - Damien Danglade
+  - Laura Gardano
+  - Christelle Laguillier
+  - Gregory Lazarian
+  - Claudine Roger
+  - Catherine Thieblemont
+  - Jacek Marzec
+  - John Gribben
+  - Florence Cymbalista
+  - "Nadine Varin\u2010Blank"
+  - Dominique Ledoux
+  - "Fanny Baran\u2010Marszak"
+  publisher: International Journal of Cancer
+  date: '2014-12-03'
+  link: https://doi.org/f675tr
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18632/oncotarget.2629
+  title: Mutation of Vav1 adaptor region reveals a new oncogenic activation
+  authors:
+  - Lyra Razanadrakoto
+  - "Fran\xE7oise Cormier"
+  - "Vanessa Laurient\xE9"
+  - Elisabetta Dondi
+  - Laura Gardano
+  - Shulamit Katzav
+  - Lionel Guittat
+  - Nadine Varin-Blank
+  publisher: Oncotarget
+  date: '2014-10-24'
+  link: https://doi.org/hbswrb
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ajh.23861
+  title: 'Old DAT and new data: Positive direct antiglobulin test identifies a subgroup
+    with poor outcome among chronic lymphocytic leukemia stage A patients'
+  authors:
+  - Anne Quinquenel
+  - Chadi Al Nawakil
+  - "Fanny Baran\u2010Marszak"
+  - Virginie Eclache
+  - Remi Letestu
+  - Mohammed Khalloufi
+  - Marouane Boubaya
+  - Christine Le Roy
+  - "Nadine Varin\u2010Blank"
+  - Alain Delmer
+  - Vincent Levy
+  - "Florence Ajchenbaum\u2010Cymbalista"
+  publisher: American Journal of Hematology
+  date: '2014-10-25'
+  link: https://doi.org/f6tp2j
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/nan.12098
+  title: Loss of endoplasmic reticulum calcium pump expression in choroid plexus tumours
+  authors:
+  - "Lamia Ait\u2010Ghezali"
+  - Atousa Arbabian
+  - Astrid Jeibmann
+  - Martin Hasselblatt
+  - Giorgio G. Hallaert
+  - Caroline Van den Broecke
+  - "Fran\xE7oise Gray"
+  - "Jean\u2010Philippe Brouland"
+  - "Nadine Varin\u2010Blank"
+  - Bela Papp
+  publisher: Neuropathology and Applied Neurobiology
+  date: '2014-09-25'
+  link: https://doi.org/hbswrc
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2013-10-532622
+  title: Association of a single-nucleotide polymorphism in the SH2B3 gene with JAK2V617F-positive
+    myeloproliferative neoplasms
+  authors:
+  - Elodie Lesteven
+  - Marie Picque
+  - Carole Conejero Tonetti
+  - "St\xE9phane Giraudier"
+  - Nadine Varin-Blank
+  - Laura Velazquez
+  - Jean-Jacques Kiladjian
+  - Bruno Cassinat
+  - Fanny Baran-Marszak
+  publisher: Blood
+  date: '2014-01-30'
+  link: https://doi.org/hbswrd
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/jimmunol.1301277
+  title: Munc18-2 and Syntaxin 3 Control Distinct Essential Steps in Mast Cell Degranulation
+  authors:
+  - Cristiana Brochetta
+  - Ryo Suzuki
+  - Francesca Vita
+  - Maria Rosa Soranzo
+  - Julien Claver
+  - Lydia Celia Madjene
+  - Tarik Attout
+  - Joana Vitte
+  - Nadine Varin-Blank
+  - Giuliano Zabucchi
+  - Juan Rivera
+  - Ulrich Blank
+  publisher: The Journal of Immunology
+  date: '2014-01-01'
+  link: https://doi.org/f5m6f6
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/2162-3619-2-4
+  title: Targeting early B-cell receptor signaling induces apoptosis in leukemic mantle
+    cell lymphoma
+  authors:
+  - Mohand-Akli Boukhiar
+  - Claudine Roger
+  - Julie Tran
+  - Remy Gressin
+  - Antoine Martin
+  - Florence Ajchenbaum-Cymbalista
+  - Nadine Varin-Blank
+  - Dominique Ledoux
+  - Fanny Baran-Marszak
+  publisher: Experimental Hematology &amp; Oncology
+  date: '2013-02-19'
+  link: https://doi.org/hbswrf
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2011-12-397158
+  title: The degree of BCR and NFAT activation predicts clinical outcomes in chronic
+    lymphocytic leukemia
+  authors:
+  - Christine Le Roy
+  - Pierre-Antoine Deglesne
+  - Nathalie Chevallier
+  - Taoufik Beitar
+  - Virginie Eclache
+  - Maude Quettier
+  - Marouane Boubaya
+  - "R\xE9mi Letestu"
+  - "Vincent L\xE9vy"
+  - Florence Ajchenbaum-Cymbalista
+  - Nadine Varin-Blank
+  publisher: Blood
+  date: '2012-07-12'
+  link: https://doi.org/hbswrg
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3324/haematol.2011.052779
+  title: 'AMD3100 disrupts the cross-talk between chronic lymphocytic leukemia cells
+    and a mesenchymal stromal or nurse-like cell-based microenvironment: pre-clinical
+    evidence for its association with chronic lymphocytic leukemia treatments'
+  authors:
+  - B. Stamatopoulos
+  - N. Meuleman
+  - C. De Bruyn
+  - K. Pieters
+  - P. Mineur
+  - C. Le Roy
+  - S. Saint-Georges
+  - N. Varin-Blank
+  - F. Cymbalista
+  - D. Bron
+  - L. Lagneaux
+  publisher: Haematologica
+  date: '2011-11-04'
+  link: https://doi.org/d8sx8q
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/biom2010165
+  title: Endoplasmic Reticulum Calcium Pumps and Cancer Cell Differentiation
+  authors:
+  - "B\xE9la Papp"
+  - Jean-Philippe Brouland
+  - Atousa Arbabian
+  - "Pascal G\xE9l\xE9bart"
+  - "T\xFCnde Kov\xE1cs"
+  - "R\xE9gis Bobe"
+  - Jocelyne Enouf
+  - Nadine Varin-Blank
+  - "\xC1gota Ap\xE1ti"
+  publisher: Biomolecules
+  date: '2012-03-05'
+  link: https://doi.org/gb86pq
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1476-4598-11-12
+  title: A STAT3-inhibitory hairpin decoy oligodeoxynucleotide discriminates between
+    STAT1 and STAT3 and induces death in a human colon carcinoma cell line
+  authors:
+  - "In\xE8s Souissi"
+  - Patrick Ladam
+  - Jean AH Cognet
+  - "St\xE9phanie Le Coquil"
+  - Nadine Varin-Blank
+  - Fanny Baran-Marszak
+  - Valeri Metelev
+  - Remi Fagard
+  publisher: Molecular Cancer
+  date: '2012-03-16'
+  link: https://doi.org/hbswrh
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2121-12-14
+  title: "A STAT3-decoy oligonucleotide induces cell death in a human colorectal carcinoma\
+    \ cell line by blocking nuclear transfer of STAT3 and STAT3-bound NF-\u03BAB"
+  authors:
+  - "In\xE8s Souissi"
+  - Imen Najjar
+  - Laurent Ah-Koon
+  - Pierre Olivier Schischmanoff
+  - Denis Lesage
+  - "St\xE9phanie Le Coquil"
+  - Claudine Roger
+  - Isabelle Dusanter-Fourt
+  - Nadine Varin-Blank
+  - An Cao
+  - Valeri Metelev
+  - Fanny Baran-Marszak
+  - Remi Fagard
+  publisher: BMC Cell Biology
+  date: '2011-04-12'
+  link: https://doi.org/b3wtd7
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2009-12-256768
+  title: "Expression level and differential JAK2-V617F\u2013binding of the adaptor\
+    \ protein Lnk regulates JAK2-mediated signals in myeloproliferative neoplasms"
+  authors:
+  - Fanny Baran-Marszak
+  - Hajer Magdoud
+  - Christophe Desterke
+  - Anabell Alvarado
+  - Claudine Roger
+  - "St\xE9phanie Harel"
+  - Elizabeth Mazoyer
+  - Bruno Cassinat
+  - Sylvie Chevret
+  - Carole Tonetti
+  - "St\xE9phane Giraudier"
+  - Pierre Fenaux
+  - Florence Cymbalista
+  - Nadine Varin-Blank
+  - "Marie-Caroline Le Bousse-Kerdil\xE8s"
+  - Jean-Jacques Kiladjian
+  - Laura Velazquez
+  publisher: Blood
+  date: '2010-12-23'
+  link: https://doi.org/d82tpt
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3324/haematol.2009.019745
+  title: Constitutive and B-cell receptor-induced activation of STAT3 are important
+    signaling pathways targeted by bortezomib in leukemic mantle cell lymphoma
+  authors:
+  - F. Baran-Marszak
+  - M. Boukhiar
+  - S. Harel
+  - C. Laguillier
+  - C. Roger
+  - R. Gressin
+  - A. Martin
+  - R. Fagard
+  - N. Varin-Blank
+  - F. Ajchenbaum-Cymbalista
+  - D. Ledoux
+  publisher: Haematologica
+  date: '2010-07-27'
+  link: https://doi.org/bgnbm6
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/emboj.2010.127
+  title: "Ezrin tunes T\u2010cell activation by controlling Dlg1 and microtubule positioning\
+    \ at the immunological synapse"
+  authors:
+  - "R\xE9mi Lasserre"
+  - "St\xE9phanie Charrin"
+  - "C\xE9line Cuche"
+  - Anne Danckaert
+  - "Maria\u2010Isabel Thoulouze"
+  - Fabrice de Chaumont
+  - Tarn Duong
+  - Nathalie Perrault
+  - "Nadine Varin\u2010Blank"
+  - "Jean\u2010Christophe Olivo\u2010Marin"
+  - "Sandrine Etienne\u2010Manneville"
+  - Monique Arpin
+  - Vincenzo Di Bartolo
+  - "Andr\xE9s Alcover"
+  publisher: The EMBO Journal
+  date: '2010-06-15'
+  link: https://doi.org/bnvc66
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.yexcr.2009.09.004
+  title: 'Vav1 and PU.1 are recruited to the CD11b promoter in APL-derived promyelocytes:
+    Role of Vav1 in modulating PU.1-containing complexes during ATRA-induced differentiation'
+  authors:
+  - Federica Brugnoli
+  - Elisabetta Lambertini
+  - Nadine Varin-Blank
+  - Roberta Piva
+  - Marco Marchisio
+  - Silvia Grassilli
+  - Sebastiano Miscia
+  - Silvano Capitani
+  - Valeria Bertagnolo
+  publisher: Experimental Cell Research
+  date: '2010-01-01'
+  link: https://doi.org/b5kzcn
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cyto.a.20774
+  title: "Flow cytometry APC\u2010tandem dyes are degraded through a cell\u2010dependent\
+    \ mechanism"
+  authors:
+  - Christine Le Roy
+  - "Nadine Varin\u2010Blank"
+  - "Florence Ajchenbaum\u2010Cymbalista"
+  - "R\xE9mi Letestu"
+  publisher: Cytometry Part A
+  date: '2009-09-08'
+  link: https://doi.org/df32pz
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.can-08-4750
+  title: Down-regulation of CXCR4 and CD62L in Chronic Lymphocytic Leukemia Cells
+    Is Triggered by B-Cell Receptor Ligation and Associated with Progressive Disease
+  authors:
+  - Amalia Vlad
+  - Pierre-Antoine Deglesne
+  - "Re\u0301mi Letestu"
+  - "Ste\u0301phane Saint-Georges"
+  - Nathalie Chevallier
+  - Fanny Baran-Marszak
+  - Nadine Varin-Blank
+  - Florence Ajchenbaum-Cymbalista
+  - Dominique Ledoux
+  publisher: Cancer Research
+  date: '2009-08-12'
+  link: https://doi.org/fkfd4n
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2008-05-154849
+  title: Lnk adaptor protein down-regulates specific Kit-induced signaling pathways
+    in primary mast cells
+  authors:
+  - Clotilde Simon
+  - Elisabetta Dondi
+  - Amandine Chaix
+  - Paulo de Sepulveda
+  - Terrance J. Kubiseski
+  - Nadine Varin-Blank
+  - Laura Velazquez
+  publisher: Blood
+  date: '2008-11-15'
+  link: https://doi.org/dkj4mh
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.onc.1210486
+  title: A crosstalk between hSiah2 and Pias E3-ligases modulates Pias-dependent activation
+  authors:
+  - A Depaux
+  - F Regnier-Ricard
+  - A Germani
+  - N Varin-Blank
+  publisher: Oncogene
+  date: '2007-05-28'
+  link: https://doi.org/dpjdn2
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbrc.2006.07.092
+  title: Dimerization of hSiah proteins regulates their stability
+  authors:
+  - Arnaud Depaux
+  - Fabienne Regnier-Ricard
+  - Antonia Germani
+  - Nadine Varin-Blank
+  publisher: Biochemical and Biophysical Research Communications
+  date: '2006-09-01'
+  link: https://doi.org/dth49g
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.can-06-0085
+  title: Survival Response to B-Cell Receptor Ligation Is Restricted to Progressive
+    Chronic Lymphocytic Leukemia Cells Irrespective of Zap70 Expression
+  authors:
+  - Pierre-Antoine Deglesne
+  - Nathalie Chevallier
+  - "Re\u0301mi Letestu"
+  - Fanny Baran-Marszak
+  - Taoufik Beitar
+  - "Ce\u0301lia Salanoubat"
+  - Laurence Sanhes
+  - Joelle Nataf
+  - Claudine Roger
+  - Nadine Varin-Blank
+  - Florence Ajchenbaum-Cymbalista
+  publisher: Cancer Research
+  date: '2006-07-15'
+  link: https://doi.org/d69n53
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.onc.1208043
+  title: 'Characterization of VIK-1: a new Vav-interacting Kruppel-like protein'
+  authors:
+  - Martin Houlard
+  - Francisco Romero-Portillo
+  - Antonia Germani
+  - Arnaud Depaux
+  - Fabienne Regnier-Ricard
+  - Sylvie Gisselbrecht
+  - Nadine Varin-Blank
+  publisher: Oncogene
+  date: '2004-11-22'
+  link: https://doi.org/c3w9nf
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.allerg.2003.10.009
+  title: "La lign\xE9e mastocytaire RBL\_: mod\xE8le exp\xE9rimental in vitro et application\
+    \ en pharmacologie clinique"
+  authors:
+  - U Blank
+  - N Varin-Blank
+  publisher: "Revue Fran\xE7aise d'Allergologie et d'Immunologie Clinique"
+  date: '2004-01-01'
+  link: https://doi.org/dsjfkd
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.onc.1206994
+  title: SIAH-1 interacts with CtIP and promotes its degradation by the proteasome
+    pathway
+  authors:
+  - Antonia Germani
+  - Audrey Prabel
+  - Samia Mourah
+  - Marie-Pierre Podgorniak
+  - Anna Di Carlo
+  - Ricardo Ehrlich
+  - Sylvie Gisselbrecht
+  - Nadine Varin-Blank
+  - Fabien Calvo
+  - Heriberto Bruzzoni-Giovanelli
+  publisher: Oncogene
+  date: '2003-12-04'
+  link: https://doi.org/cb5zgc
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1242/jcs.00216
+  title: Evidence of a role for Munc18-2 and microtubules in mast cell granule exocytosis
+  authors:
+  - Sophie Martin-Verdeaux
+  - Isabel Pombo
+  - Bruno Iannascoli
+  - "Miche\u0300le Roa"
+  - Nadine Varin-Blank
+  - Juan Rivera
+  - Ulrich Blank
+  publisher: Journal of Cell Science
+  date: '2003-01-15'
+  link: https://doi.org/cnt2dd
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s0161-5890(02)00085-8
+  title: SNAREs and associated regulators in the control of exocytosis in the RBL-2H3
+    mast cell line
+  authors:
+  - Ulrich Blank
+  - Bettyna Cyprien
+  - Sophie Martin-Verdeaux
+  - Fabienne Paumet
+  - Isabel Pombo
+  - Juan Rivera
+  - "Mich\xE8le Roa"
+  - Nadine Varin-Blank
+  publisher: Molecular Immunology
+  date: '2002-09-01'
+  link: https://doi.org/cxgt7v
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1084/jem.20011701
+  title: Vav1 Is a Component of Transcriptionally Active Complexes
+  authors:
+  - Martin Houlard
+  - Ramachandran Arudchandran
+  - Fabienne Regnier-Ricard
+  - Antonia Germani
+  - Sylvie Gisselbrecht
+  - Ulrich Blank
+  - Juan Rivera
+  - Nadine Varin-Blank
+  publisher: The Journal of Experimental Medicine
+  date: '2002-05-06'
+  link: https://doi.org/cpdds9
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.onc.1204002
+  title: "SIAH-1 interacts with \u03B1-tubulin and degrades the kinesin Kid by the\
+    \ proteasome pathway during mitosis"
+  authors:
+  - Antonia Germani
+  - Heriberto Bruzzoni-Giovanelli
+  - Arlette Fellous
+  - Sylvie Gisselbrecht
+  - Nadine Varin-Blank
+  - Fabien Calvo
+  publisher: Oncogene
+  date: '2000-12-07'
+  link: https://doi.org/c8pmw7
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.onc.1203187
+  title: SIAH-1 inhibits cell growth by altering the mitotic process
+  authors:
+  - H Bruzzoni-Giovanelli
+  - A Faille
+  - G Linares-Cruz
+  - M Nemani
+  - F Le Deist
+  - A Germani
+  - D Chassoux
+  - G Millot
+  - J-P Roperch
+  - R Amson
+  - A Telerman
+  - F Calvo
+  publisher: Oncogene
+  date: '1999-11-25'
+  link: https://doi.org/dmp33v
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/mcb.19.5.3798
+  title: hSiah2 Is a New Vav Binding Protein Which Inhibits Vav-Mediated Signaling
+    Pathways
+  authors:
+  - Antonia Germani
+  - Francisco Romero
+  - Martin Houlard
+  - Jacques Camonis
+  - Sylvie Gisselbrecht
+  - Siegmund Fischer
+  - Nadine Varin-Blank
+  publisher: Molecular and Cellular Biology
+  date: '1999-05-01'
+  link: https://doi.org/hbswrj
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:9794408
+  title: 'Fc epsilonRI-mediated induction of TNF-alpha gene expression in the RBL-2H3
+    mast cell line: regulation by a novel NF-kappaB-like nuclear binding complex.'
+  authors:
+  - C Pelletier
+  - N Varin-Blank
+  - J Rivera
+  - B Iannascoli
+  - F Marchand
+  - B David
+  - A Weyer
+  - U Blank
+  publisher: 'Journal of immunology (Baltimore, Md. : 1950)'
+  date: '1998-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9794408
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.95.15.8750
+  title: Male-specific transcription initiation of the<i>C4-Slp</i>gene in mouse liver
+    follows activation of STAT5
+  authors:
+  - N. Varin-Blank
+  - E. Dondi
+  - M. Tosi
+  - C. Hernandez
+  - L. Boucontet
+  - H. Gotoh
+  - T. Shiroishi
+  - K. Moriwaki
+  - T. Meo
+  publisher: Proceedings of the National Academy of Sciences
+  date: '1998-07-21'
+  link: https://doi.org/fg6s46
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.273.10.5923
+  title: Vav Binding to Heterogeneous Nuclear Ribonucleoprotein (hnRNP) C
+  authors:
+  - Francisco Romero
+  - Antonia Germani
+  - Edmond Puvion
+  - Jacques Camonis
+  - Nadine Varin-Blank
+  - Sylvie Gisselbrecht
+  - Siegmund Fischer
+  publisher: Journal of Biological Chemistry
+  date: '1998-03-01'
+  link: https://doi.org/dxj53r
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.90.12.5786
+  title: The androgen-dependent C4-Slp gene is driven by a constitutively competent
+    promoter.
+  authors:
+  - Y Miyagoe
+  - E Georgatsou
+  - N Varin-Blank
+  - T Meo
+  publisher: Proceedings of the National Academy of Sciences
+  date: '1993-06-15'
+  link: https://doi.org/cbxrb5
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1159/000236436
+  title: "Expression of the Alpha Chain of Human Fc\u03B5RI in Transfected Rat Basophilic\
+    \ Leukemia Cells: Functional Activation after Sensitization with Human Mite-Specific\
+    \ IgE"
+  authors:
+  - G. Taudou
+  - N. Varin-Blank
+  - H. Jouin
+  - F. Marchand
+  - A. Weyer
+  - U. Blank
+  publisher: International Archives of Allergy and Immunology
+  date: '1993-01-01'
+  link: https://doi.org/b99xm7
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:1658002
+  title: Structure-function relationships in the mast cell high affinity receptor
+    for IgE. Role of the cytoplasmic domains and of the beta subunit.
+  authors:
+  - G Alber
+  - L Miller
+  - C L Jelsema
+  - N Varin-Blank
+  - H Metzger
+  publisher: The Journal of biological chemistry
+  date: '1991-11-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1658002
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:1824851
+  title: Immobilization and internalization of mutated IgE receptors in transfected
+    cells.
+  authors:
+  - S Y Mao
+  - N Varin-Blank
+  - M Edidin
+  - H Metzger
+  publisher: 'Journal of immunology (Baltimore, Md. : 1950)'
+  date: '1991-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1824851
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/eji.1830210135
+  title: "Soluble Fc\u03B3 receptors II (Fc\u03B3RII) are generated by cleavage of\
+    \ membrane Fc\u03B3RII"
+  authors:
+  - "Catherine Saut\xE8s"
+  - Nadine Varin
+  - Christophe Teillaud
+  - "Marc Da\xEBron"
+  - Jos Even
+  - P. Mark Hogarth
+  - Wolf H. Fridman
+  publisher: European Journal of Immunology
+  date: '1991-01-01'
+  link: https://doi.org/ch4kp5
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0161-5890(90)90023-s
+  title: "Molecular and functional studies of recombinant soluble Fc\u03B3 receptors"
+  authors:
+  - "C. Saut\xE8s"
+  - N. Varin
+  - P.M. Hogarth
+  - J.C. Unkeless
+  - C. Teillaud
+  - J. Even
+  - A. Lynch
+  - W.H. Fridman
+  publisher: Molecular Immunology
+  date: '1990-12-01'
+  link: https://doi.org/cd9qqp
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:2144288
+  title: Surface expression of mutated subunits of the high affinity mast cell receptor
+    for IgE.
+  authors:
+  - N Varin-Blank
+  - H Metzger
+  publisher: The Journal of biological chemistry
+  date: '1990-09-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2144288
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:2165065
+  title: Transmembrane signaling in P815 mastocytoma cells by transfected IgE receptors.
+  authors:
+  - L Miller
+  - G Alber
+  - N Varin-Blank
+  - R Ludowyke
+  - H Metzger
+  publisher: The Journal of biological chemistry
+  date: '1990-07-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2165065
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/eji.1830191213
+  title: "Recombinant soluble receptors for the Fc\u03B3 portion inhibit antibody\
+    \ production <i>in vitro</i>"
+  authors:
+  - Nadine Varin
+  - "Catherine Saut\xE8s"
+  - Annie Galinha
+  - Jos Even
+  - P. Mark Hogarth
+  - Wolf H. Fridman
+  publisher: European Journal of Immunology
+  date: '1989-12-01'
+  link: https://doi.org/bqf629
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1159/000318912
+  title: "Murine Type II Fc\u03B3 Receptors and IgG-Binding Factors"
+  authors:
+  - "Marc Da\xEBron"
+  - "Catherine Saut\xE8s"
+  - Christian Bonnerot
+  - Ulrich Blank
+  - Nadine Varin
+  - Jos Even
+  - Mark Hogarth
+  - Wolf H. Fridman
+  publisher: Chemical Immunology and Allergy
+  date: '1989-01-01'
+  link: https://doi.org/c458zw
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0161-5890(88)90149-6
+  title: "Molecular mechanisms regulating the expression of murine T-cell Fc\u03B3\
+    \ receptor II"
+  authors:
+  - "Marc Da\xEBron"
+  - Christian Bonnerot
+  - Matyas Sandor
+  - Nadine Varin
+  - P.Mark Hogarth
+  - Jos Even
+  - Wolf H. Fridman
+  publisher: Molecular Immunology
+  date: '1988-11-01'
+  link: https://doi.org/bd2s92
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:2456328
+  title: Methylation in the 5' region of the murine beta Fc gamma R gene regulates
+    the expression of Fc gamma receptor II.
+  authors:
+  - C Bonnerot
+  - "M Da\xEBron"
+  - N Varin
+  - S Amigorena
+  - P M Hogarth
+  - J Even
+  - W H Fridman
+  publisher: 'Journal of immunology (Baltimore, Md. : 1950)'
+  date: '1988-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2456328
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/16.14.7180
+  title: Structure of a mouse cDNA containing a B1 dimer
+  authors:
+  - C. Bonnerot
+  - N. Varin
+  - C. Rabourdin-Combe
+  - W.H. Fridman
+  - J. Even
+  publisher: Nucleic Acids Research
+  date: '1988-01-01'
+  link: https://doi.org/d6x85z
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/bloodadvances.2021006169
+  title: Nurselike cells sequester B cells in disorganized lymph nodes in chronic
+    lymphocytic leukemia via alternative production of CCL21
+  authors:
+  - Rim Zaaboub
+  - Lene Vimeux
+  - Vincent Contremoulins
+  - Florence Cymbalista
+  - "Vincent L\xE9vy"
+  - Emmanuel Donnadieu
+  - Nadine Varin-Blank
+  - Antoine Martin
+  - Elisabetta Dondi
+  publisher: Blood Advances
+  date: '2022-08-12'
+  link: https://doi.org/g5gch8
+  orcid: 0000-0003-2769-018X
+  nadine-varin: true
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/6/16/10.1182_bloodadvances.2021006169/4/m_advancesadv2021006169absf1.png?Expires=1775782048&Signature=SHIdrBVHR8H0FoRtDSL2qr2h80t0gCl4Ss1H8kDoNN-utSRrowXc-sckZ8UPSrhkSR1OwaFKMBVkSEwnDaKih56P70uPyI7KjpDJ3fG~T-~s8xTLHUCKcjVNhylDg5qaxYlzYCmetFbTZ3DrKpLM6J7jtJ~cj7WlyfS37ZACCu-TMSFmMS1n85MQ2PtFQcimMxvJoZAn24KZu~tfxGlMSIxkIs7CdeXCu5m4bkk~YTyRFqtKuw7cDKdbSrWdQU4l9yXv4qRjFKVS0VY~ZDuZdTxcZN27~efe3ExiFUSFzwGpIlKWqwWU9x0qg39RjfmlpH1iM-lnWrcw6gQQCNp7SA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  description: test
+  tags:
+  - test5
+- id: doi:10.3390/metabo16020145
+  title: 'Lipoprotein Metabolism in Hematological Malignancies: A Role in Shaping
+    the Tumor Cell Microenvironment?'
+  authors:
+  - Manal Sellam
+  - "M\xE9lanie Lambert"
+  - Nadine Varin-Blank
+  - Kevin Saitoski
+  publisher: Metabolites
+  date: '2026-02-20'
+  link: https://doi.org/hbvrs8
+  type: paper
+  group: featured
+  image: https://www.mdpi.com/metabolites/metabolites-16-00145/article_deploy/html/images/metabolites-16-00145-g001-550.jpg
+  description: test
+  tags:
+  - new0
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41375-025-02555-0
+  title: 'Targeted therapies overcome the poor prognosis of stereotyped Subset#2 chronic
+    lymphocytic leukemia : a real-world multicentric study'
+  authors:
+  - Lucile Bussot
+  - "St\xE9phanie Poulain"
+  - Morgane Nudel Ortmans
+  - "Fr\xE9d\xE9ric Davi"
+  - Damien Roos-Weil
+  - "St\xE9phane Lepretre"
+  - Doriane Richard
+  - "C\xE9dric Pastoret"
+  - Anne Desmares
+  - Emmanuelle Ferrant
+  - Sarah Huet
+  - Pierre Sujobert
+  - Eric Delabesse
+  - "Lo\xEFc Ysebaert"
+  - "Gr\xE9gory Lazarian"
+  - Anne-Sophie Michallet
+  - Audrey Bidet
+  - Marie Sarah Dilhuydy
+  - "Marie-H\xE9l\xE8ne Delfau-Larue"
+  - Jehan Dupuis
+  - Aline Clavert
+  - Bernard Drenou
+  - Elsa Maitre
+  - Xavier Troussard
+  - Edouard Cornet
+  - Yannick Le Bris
+  - Anne Lok
+  - Bruno Villemagne
+  - "H\xE9l\xE8ne Barbier"
+  - "Marie C. B\xE9n\xE9"
+  - "C\xE9cile Tomowiak"
+  - "St\xE9phanie Tardy"
+  - Pascale Cornillet-Lefebvre
+  - Anne Quinquenel
+  - "Romain Gui\xE8ze"
+  - Sarah Barbieux
+  - Isabelle Plantier
+  - Julia Hieulle
+  - Pascale Flandrin Gresta
+  - "J\xE9r\xF4me Cornillon"
+  - Sophie Dupire
+  - Kamel Laribi
+  - Pierre Feugier
+  - Caroline Algrin
+  - Florence Lachenal
+  - Adrien Caillet
+  - Anne Murati
+  - Luca Inchiappa
+  - "C\xE9line Lechat"
+  - Caroline Dartigeas
+  - "\xC9milie Montaut"
+  - Lysiane Molina
+  - Sylvain Carras
+  publisher: Leukemia
+  date: '2025-04-01'
+  link: https://doi.org/hbthzf
+  type: paper
+  group: featured
+  image: https://www.nature.com/articles/s41375-025-02555-0/figures/1
+  description: test
+  tags:
+  - new1
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood.2024025738
+  title: "Inflammatory Waldenstr\xF6m macroglobulinemia is associated with clonal\
+    \ hematopoiesis: a multicentric cohort"
+  authors:
+  - Pierre-Edouard Debureaux
+  - "St\xE9phanie Poulain"
+  - "St\xE9phanie Harel"
+  - Marie Passet
+  - "Marie Templ\xE9"
+  - "Chlo\xE9 Friedrich"
+  - Nathalie Forgeard
+  - Dikelele Elessa
+  - William Plas
+  - Laureen Chat
+  - "Gr\xE9gory Lazarian"
+  - Lise Willems
+  - Bruno Royer
+  - Alexis Talbot
+  - Tristan Vaugeois
+  - Floriane Theves
+  - "Alexandre Terr\xE9"
+  - Anne Brignier
+  - Marion Malphettes
+  - "Daphn\xE9 Krzisch"
+  - Laurent Frenzel
+  - "Fr\xE9d\xE9ric Davi"
+  - Clotilde Bravetti
+  - Florence Nguyen-Khac
+  - Jehan Dupuis
+  - Wendy Cuccuini
+  - Didier Bouscary
+  - Olivier Hermine
+  - Damien Roos-Weil
+  - Olivier Kosmider
+  - Emmanuelle Clappier
+  - "Marion Esp\xE9li"
+  - Karl Balabanian
+  - Bertrand Arnulf
+  publisher: Blood
+  date: '2025-01-23'
+  link: https://doi.org/hbthzh
+  type: paper
+  group: featured
+  image: https://ashpublications.org/view-large/figure/12557533/BLOOD_BLD-2024-025738-gr1ad.jpg
+  description: test
+  tags:
+  - new2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12882-025-04014-5
+  title: "Understanding kidney involvement in mycosis fungoides: T-cell clonality\
+    \ as a guide for targeted therapy \u2013 a case report and literature review"
+  authors:
+  - "Jelena Filipovi\u0107"
+  - Eve Maubec
+  - Clelia Previtali
+  - "Milica Vi\u0161i\u0107"
+  - Beatrice Villette
+  - Gregory Lazarian
+  - Remi Letestu
+  - Joel Cucherousset
+  - Michael Soussan
+  - Antoine Martin
+  publisher: BMC Nephrology
+  date: '2025-03-24'
+  link: https://doi.org/hbthzn
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d5e1/11931814/04280783f961/12882_2025_4014_Fig1_HTML.gif
+  description: test
+  tags:
+  - new3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00277-025-06200-9
+  title: Multiplex digital PCR enables sensitive detection of resistance to BTK inhibitors
+  authors:
+  - Manon Garcia
+  - Carolyne Croizier
+  - "Gr\xE9gory Lazarian"
+  - Anne Quinquenel
+  - Thomas Tassin
+  - "C\xE9line Bourgne"
+  - Olivier Tournilhac
+  - Jacques-Olivier Bay
+  - Marc G. Berger
+  - "Andr\xE9i Tchirkov"
+  - "Lauren V\xE9ron\xE8se"
+  - "Romain Gui\xE8ze"
+  publisher: Annals of Hematology
+  date: '2025-01-24'
+  link: https://doi.org/hbthz2
+  type: paper
+  group: featured
+  image: hhttps://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b06/12141416/d7b80e4f58a4/277_2025_6200_Fig1_HTML.jpg
+  description: test
+  tags:
+  - new4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/1873-3468.15074
+  title: "The survival grip\u2013how cell adhesion promotes tumor maintenance within\
+    \ the microenvironment"
+  authors:
+  - Laura Gardano
+  - Jordan Ferreira
+  - Christine Le Roy
+  - Dominique Ledoux
+  - "Nadine Varin\u2010Blank"
+  publisher: FEBS Letters
+  date: '2024-12-20'
+  link: https://doi.org/hbswq2
+  type: paper
+  group: featured
+  image: https://febs.onlinelibrary.wiley.com/cms/asset/9ffbc0ca-4c7a-47e1-bcc2-5aae6c99ad27/feb215074-fig-0001-m.jpg
+  description: test
+  tags:
+  - new5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood.2023022197
+  title: Dissection of single-cell landscapes for the development of chimeric antigen
+    receptor T cells in Hodgkin lymphoma
+  authors:
+  - Adrian Gottschlich
+  - "Ruth Gr\xFCnmeier"
+  - Gordon Victor Hoffmann
+  - Sayantan Nandi
+  - Vladyslav Kavaka
+  - "Philipp Jie M\xFCller"
+  - Jakob Jobst
+  - Arman Oner
+  - Rainer Kaiser
+  - "Jan G\xE4rtig"
+  - Ignazio Piseddu
+  - Stephanie Frenz-Wiessner
+  - Savannah D. Fairley
+  - Heiko Schulz
+  - Veronika Igl
+  - Thomas Alexander Janert
+  - Lea Di Fina
+  - "Mait\xE9 Mulkers"
+  - Moritz Thomas
+  - Daria Briukhovetska
+  - "Donjet\xEB Simnica"
+  - Emanuele Carlini
+  - Christina Angeliki Tsiverioti
+  - Marcel P. Trefny
+  - Theo Lorenzini
+  - "Florian M\xE4rkl"
+  - Pedro Mesquita
+  - Ruben Brabenec
+  - "Thadd\xE4us Strzalkowski"
+  - Sophia Stock
+  - Stefanos Michaelides
+  - Johannes Hellmuth
+  - Martin Thelen
+  - Sarah Reinke
+  - Wolfram Klapper
+  - Pascal Francois Gelebart
+  - Leo Nicolai
+  - Carsten Marr
+  - "Eduardo Beltr\xE1n"
+  - Remco T. A. Megens
+  - Christoph Klein
+  - Fanny Baran-Marszak
+  - Andreas Rosenwald
+  - Michael von Bergwelt-Baildon
+  - "Paul J. Br\xF6ckelmann"
+  - Stefan Endres
+  - Sebastian Kobold
+  publisher: Blood
+  date: '2025-04-03'
+  link: https://doi.org/hbthz7
+  type: paper
+  group: featured
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006497124114607-BLOOD_BLD-2023-022197R1-ga1.jpg
+  description: test
+  tags:
+  - new6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/biology14060624
+  title: The Critical Role of Adipocytes in Leukemia
+  authors:
+  - Romane Higos
+  - Kevin Saitoski
+  - Mathieu Hautefeuille
+  - "Genevi\xE8ve Marcelin"
+  - "Karine Cl\xE9ment"
+  - Nadine Varin-Blank
+  - Christophe Breton
+  - Simon Lecoutre
+  - "M\xE9lanie Lambert"
+  publisher: Biology
+  date: '2025-05-28'
+  link: https://doi.org/hbth2s
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4718/12189830/491dc2f3fe9d/biology-14-00624-g001.gif
+  description: test
+  tags:
+  - new7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jha2.70019
+  title: "Bortezomib, Rituximab and Dexamethasone Regimen (BDR) in Waldenstr\xF6m\
+    \ Macroglobulinaemia: A Retrospective Real\u2010World Analysis"
+  authors:
+  - Thomas Hueso
+  - "Gr\xE9gory Lazarian"
+  - Paul Chauvet
+  - Adrien Chauchet
+  - "Ramy Rahm\xE9"
+  - Sabine Brechignac
+  - "Vincent L\xE9vy"
+  - Salomon Manier
+  - "Damien Roos\u2010Weil"
+  - David Ghez
+  - Claude Gardin
+  - "Fanny Baran\u2010Marszak"
+  - Eric Durot
+  - Pierre Morel
+  - Thorsten Braun
+  publisher: eJHaem
+  date: '2025-03-19'
+  link: https://doi.org/hbth2t
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8e80/11920810/0372cf7a81bd/JHA2-6-e70019-g001.gif
+  description: test
+  tags:
+  - new8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajh.27650
+  title: <scp><i>TP53</i></scp> Mutations Detected by <scp>NGS</scp> Are a Major Clinical
+    Risk Factor for Stratifying Mantle Cell Lymphoma
+  authors:
+  - "Gr\xE9gory Lazarian"
+  - Lotfi Chemali
+  - Merieme Bensalah
+  - Carla Zindel
+  - "Val\xE9rie Lefebvre"
+  - Catherine Thieblemont
+  - Antoine Martin
+  - Giulia Tueur
+  - "R\xE9mi Letestu"
+  - Carole Fleury
+  - Vincent Leymarie
+  - "Val\xE9rie Vidal"
+  - Audrey Bidet
+  - Elsa Maitre
+  - Florence Cymbalista
+  - Vincent Levy
+  - Thierry Soussi
+  - "Fanny Baran\u2010Marszak"
+  publisher: American Journal of Hematology
+  date: '2025-03-06'
+  link: https://doi.org/g9prz2
+  type: paper
+  group: featured
+  image: https://onlinelibrary.wiley.com/cms/asset/5411f573-a3c4-4cc1-8c4f-2cf4876aa3e8/ajh27650-fig-0001-m.jpg
+  description: test
+  tags:
+  - new9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/hem3.70065
+  title: 'Detection of clinically relevant variants in the <i>TP53</i> gene below
+    10% allelic frequency: A multicenter study by ERIC, the European Research Initiative
+    on CLL'
+  authors:
+  - Sarka Pavlova
+  - Jitka Malcikova
+  - Lenka Radova
+  - Silvia Bonfiglio
+  - Jack B. Cowland
+  - Christian Brieghel
+  - Mette K. Andersen
+  - Maria Karypidou
+  - Bella Biderman
+  - Michael Doubek
+  - Gregory Lazarian
+  - Inmaculada Rapado
+  - Matthijs Vynck
+  - Naomi A. Porret
+  - Martin Andres
+  - Dina Rosenberg
+  - Dvora Sahar
+  - "Carolina Mart\xEDnez\u2010Laperche"
+  - "Ismael Bu\xF1o"
+  - Andrew Hindley
+  - David Donaldson
+  - "Julio B. S\xE1nchez"
+  - "Jos\xE9 A. Garc\xEDa\u2010Marco"
+  - "Alicia Serrano\u2010Alcal\xE1"
+  - "Blanca Ferrer\u2010Lores"
+  - "Concepci\xF3n Fern\xE1ndez\u2010Rodriguez"
+  - Beatriz Bellosillo
+  - Stephan Stilgenbauer
+  - Eugen Tausch
+  - Hero Nikdin
+  - Fiona Quinn
+  - Emer Atkinson
+  - Lisette van de Corput
+  - Cafer Yildiz
+  - "Cristina Bilbao\u2010Sieyro"
+  - Yanira Florido
+  - Christian Thiede
+  - Caroline Schuster
+  - Anastazja Stoj
+  - Sylwia Czekalska
+  - Anastasia Chatzidimitriou
+  - Stamatia Laidou
+  - Audrey Bidet
+  - Charles Dussiau
+  - Friedel Nollet
+  - Giovanna Piras
+  - Maria Monne
+  - Svetlana Smirnova
+  - Eugene Nikitin
+  - Ivan Sloma
+  - Alexis Claudel
+  - Laetitia Largeaud
+  - "Lo\xEFc Ysebaert"
+  - Peter J. M. Valk
+  - Amy Christian
+  - Renata Walewska
+  - David Oscier
+  - "Marta Sebasti\xE3o"
+  - Maria Gomes da Silva
+  - Piero Galieni
+  - Mario Angelini
+  - Davide Rossi
+  - Valeria Spina
+  - "S\xF3nia Matos"
+  - "V\xE2nia Martins"
+  - "Tomasz Stok\u0142osa"
+  - Monika Pepek
+  - Panagiotis Baliakas
+  - Rafa Andreu
+  - Irene Luna
+  - Tiina Kahre
+  - "\xDClle Murumets"
+  - Tereza Pikousova
+  - Terezia Kurucova
+  - Sophie Laird
+  - Daniel Ward
+  - Miguel Alcoceba
+  - Ana Balanzategui
+  - Lydia Scarfo
+  - Francesca Gandini
+  - Ettore Zapparoli
+  - "Adoraci\xF3n Blanco"
+  - Pau Abrisqueta
+  - "Ana E. Rodr\xEDguez\u2010Vicente"
+  - "Roc\xEDo Benito"
+  - Clotilde Bravetti
+  - "Fr\xE9d\xE9ric Davi"
+  - Paula Gameiro
+  - "Joaquin Martinez\u2010Lopez"
+  - "B\xE1rbara Taz\xF3n\u2010Vega"
+  - "Fanny Baran\u2010Marszak"
+  - Zadie Davis
+  - Mark Catherwood
+  - Andrey Sudarikov
+  - Richard Rosenquist
+  - Carsten U. Niemann
+  - Kostas Stamatopoulos
+  - Paolo Ghia
+  - Sarka Pospisilova
+  publisher: HemaSphere
+  date: '2025-01-01'
+  link: https://doi.org/g85dds
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c388/11746920/8f967574c58f/HEM3-9-e70065-g002.jpg
+  description: test
+  tags:
+  - new10
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13045-025-01725-y
+  title: Circular RNA signature of aggressive CLL with t(14;19)(q32;q13). An ERIC
+    study
+  authors:
+  - Eleonora Roncaglia
+  - Enrico Gaffo
+  - Giulia Calabretto
+  - "Moritz F\xFCrstenau"
+  - Kerry A. Rogers
+  - Panagiotis Baliakas
+  - Chenghua Cui
+  - Cecelia Miller
+  - Claudia Haferlach
+  - Karla Plevova
+  - David Oscier
+  - Zadie Davis
+  - Florence Nguyen-Khac
+  - Gian Matteo Rigolin
+  - Anastasia Athanasiadou
+  - Fanny Baran-Marszak
+  - Alberto Valiente
+  - "Maria Jos\xE9 Terol"
+  - Pau Abrisqueta
+  - Blanca Espinet
+  - Anna Puiggros
+  - Annalisa Martines
+  - Laura Bonaldi
+  - Francesca Romana Mauro
+  - "Lydia Scarf\xF2"
+  - Thomas Chatzikonstantinou
+  - Eugen Tausch
+  - Karl-Anton Kreuzer
+  - Arnon Kater
+  - Francesc Bosch
+  - Michael Doubek
+  - Panagiotis Panagiotidis
+  - Olga Kalashnikova
+  - Federica Frezzato
+  - Valeria Ruocco
+  - Silvia Orsi
+  - Kimia Salek
+  - Roberto Merlo
+  - Alberto Caregari
+  - Ilias Glogovitis
+  - Alessandro Cellini
+  - Francesco Angotzi
+  - Andrea Serafin
+  - Shuhua Yi
+  - Barbara Eichhorst
+  - Jennifer A. Woyach
+  - Antonio Cuneo
+  - Paolo Ghia
+  - Kostas Stamatopoulos
+  - Livio Trentin
+  - Andrea Visentin
+  - Stefania Bortoluzzi
+  publisher: Journal of Hematology &amp; Oncology
+  date: '2025-07-22'
+  link: https://doi.org/g9wgnr
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/62a7/12281749/80ee23afdf56/13045_2025_1725_Fig1_HTML.jpg
+  description: test
+  tags:
+  - new11
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41375-025-02615-5
+  title: 'ATM aberrations in chronic lymphocytic leukemia: del(11q) rather than ATM
+    mutations is an adverse-prognostic biomarker'
+  authors:
+  - Birna Thorvaldsdottir
+  - Larry Mansouri
+  - Lesley-Ann Sutton
+  - Ferran Nadeu
+  - Manja Meggendorfer
+  - Helen Parker
+  - Christian Brieghel
+  - Stamatia Laidou
+  - Riccardo Moia
+  - Davide Rossi
+  - Jana Kotaskova
+  - Julio Delgado
+  - "Ana E. Rodr\xEDguez-Vicente"
+  - "Roc\xEDo Benito"
+  - Gian Matteo Rigolin
+  - Silvia Bonfiglio
+  - "Lydia Scarf\xF2"
+  - Mattias Mattsson
+  - Zadie Davis
+  - Panagiotis Baliakas
+  - Inmaculada Rapado
+  - Fatima Miras
+  - "Joaqu\xEDn Martinez-Lopez"
+  - Javier de la Serna
+  - "Jes\xFAs Mar\xEDa Hern\xE1ndez Rivas"
+  - "Mar\xEDa Jos\xE9 Larr\xE1yoz"
+  - "Mar\xEDa Jos\xE9 Calasanz"
+  - Karin E. Smedby
+  - Blanca Espinet
+  - Anna Puiggros
+  - Lars Bullinger
+  - Francesc Bosch
+  - "B\xE1rbara Taz\xF3n-Vega"
+  - Fanny Baran-Marszak
+  - David Oscier
+  - Florence Nguyen-Khac
+  - Thorsten Zenz
+  - Maria Jose Terol
+  - Antonio Cuneo
+  - "Mar\xEDa Hern\xE1ndez-S\xE1nchez"
+  - Sarka Pospisilova
+  - Gianluca Gaidano
+  - Carsten U. Niemann
+  - Elias Campo
+  - Jonathan C. Strefford
+  - Paolo Ghia
+  - Kostas Stamatopoulos
+  - Richard Rosenquist
+  publisher: Leukemia
+  date: '2025-04-24'
+  link: https://doi.org/g9hf5x
+  type: paper
+  group: featured
+  image: https://www.nature.com/articles/s41375-025-02615-5/figures/1
+  description: test
+  tags:
+  - new12-1
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41375-025-02755-8
+  title: 'Clinical and transcriptomic characterization of patients with chronic lymphocytic
+    leukemia harboring t(14;19): an ERIC study'
+  authors:
+  - Andrea Visentin
+  - Enrico Gaffo
+  - "Moritz F\xFCrstenau"
+  - Kerry A. Rogers
+  - Baliakas Panagiotis
+  - Chenghua Cui
+  - Cecelia Miller
+  - Claudia Haferlach
+  - Karla Plevova
+  - David Oscier
+  - Zadie Davis
+  - Florence Nguyen-Khac
+  - Eleonora Roncaglia
+  - Gian Matteo Rigolin
+  - Anastasia Athanasiadou
+  - Fanny Baran-Marszak
+  - Alberto Valiente
+  - "Maria Jos\xE9 Terol"
+  - Pau Abrisqueta
+  - Blanca Espinet
+  - Anna Puiggros
+  - Annalisa Martines
+  - Laura Bonaldi
+  - Francesca Romana Mauro
+  - "Lydia Scarf\xF2"
+  - Thomas Chatzikonstantinou
+  - Eugen Tausch
+  - Karl-Anton Kreuzer
+  - Arnon Kater
+  - Francesc Bosch
+  - Michael Doubek
+  - Panagiotis Panagiotidis
+  - Olga Kalashnikova
+  - Federica Frezzato
+  - Giulia Calabretto
+  - Valeria Ruocco
+  - Silvia Orsi
+  - Alessandro Cellini
+  - Francesco Angotzi
+  - Andrea Serafin
+  - Shuhua Yi
+  - Barbara Eichhorst
+  - Jennifer A. Woyach
+  - Antonio Cuneo
+  - Paolo Ghia
+  - Kostas Stamatopoulos
+  - Livio Trentin
+  - Stefania Bortoluzzi
+  publisher: Leukemia
+  date: '2025-09-19'
+  link: https://doi.org/g95x3k
+  type: paper
+  group: featured
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41375-025-02755-8/MediaObjects/41375_2025_2755_Fig1_HTML.png
+  description: test
+  tags:
+  - new12-2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3324/haematol.2023.283141
+  title: "Inflammation is predictive of outcome in Waldenstr\xF6m macroglobulinemia\
+    \ treated by Bruton tyrosine kinase inhibitors: a multicentric real-life study"
+  authors:
+  - Pierre-Edouard Debureaux
+  - Nathalie Forgeard
+  - Dikelele Elessa
+  - "St\xE9phanie Harel"
+  - Laurent Frenzel
+  - Bruno Royer
+  - Alexis Talbot
+  - Sylvain Choquet
+  - Frederic Davi
+  - Florence Nguyen-Khac
+  - Wendy Cuccuini
+  - Morgane Cheminant
+  - Clotilde Bravetti
+  - Gregory Lazarian
+  - Sophie Kaltenbach
+  - Olivier Hermine
+  - Damien Roos-Weil
+  - "Marion Esp\xE9li"
+  - Karl Balabanian
+  - Bertrand Arnulf
+  publisher: Haematologica
+  date: '2023-08-16'
+  link: https://doi.org/hbth2x
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cf06/10772506/c0d6cb6a5435/109325.fig1.jpg
+  description: test
+  tags:
+  - new12-3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fimmu.2024.1407981
+  title: 'Editorial: Tumor microenvironment and hematological malignancies: new evidences
+    and new questions'
+  authors:
+  - Stefania Fiorcari
+  - Paolo Strati
+  - Elisabetta Dondi
+  publisher: Frontiers in Immunology
+  date: '2024-04-16'
+  link: https://doi.org/hbth3c
+  type: paper
+  group: featured
+  description: test
+  tags:
+  - new13
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-024-51264-2
+  title: 'Blinatumomab after R-CHOP bridging therapy for patients with Richter transformation:
+    a phase 2 multicentre trial'
+  authors:
+  - "Romain Gui\xE8ze"
+  - "Lo\xEFc Ysebaert"
+  - Damien Roos-Weil
+  - Luc-Mathieu Fornecker
+  - Emmanuelle Ferrant
+  - Lysiane Molina
+  - "Th\xE9r\xE8se Aurran"
+  - Aline Clavert
+  - Sophie de Guibert
+  - Anne-Sophie Michallet
+  - Alain Saad
+  - "Bernard Dr\xE9nou"
+  - Philippe Quittet
+  - "B\xE9n\xE9dicte Hivert"
+  - Kamel Laribi
+  - Julie Gay
+  - Anne Quinquenel
+  - Julien Broseus
+  - "Val\xE9rie Rouille"
+  - David Schwartz
+  - Benoit Magnin
+  - "Gr\xE9gory Lazarian"
+  - "Lauren V\xE9ron\xE8se"
+  - Marie de Antonio
+  - Camille Laurent
+  - Olivier Tournilhac
+  - Bruno Pereira
+  - Pierre Feugier
+  publisher: Nature Communications
+  date: '2024-08-09'
+  link: https://doi.org/hbth3d
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7542/11316063/4facd83305fe/41467_2024_51264_Fig1_HTML.jpg
+  description: test
+  tags:
+  - new14
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajh.27357
+  title: "Clinical and biological characterization of involvement of nasal\u2010associated\
+    \ lymphoid tissues in chronic lymphocytic leukemia"
+  authors:
+  - Thimali Ranaweera Arachchige
+  - Catherine Mendiburu
+  - Antoine Martin
+  - Carole Fleury
+  - Elisabetta Dondi
+  - "R\xE9mi Letestu"
+  - Virginie Eclache
+  - "Fanny Baran\u2010Marszak"
+  - Florence Cymbalista
+  - Gregory Lazarian
+  publisher: American Journal of Hematology
+  date: '2024-05-10'
+  link: https://doi.org/hbswrp
+  type: paper
+  group: featured
+  image: https://onlinelibrary.wiley.com/cms/asset/91d6e268-82bb-41e6-b781-37022f1347a2/ajh27357-fig-0001-m.jpg
+  description: test
+  tags:
+  - test2
+  plugin: sources.py
+  file: sources.yaml
+- id: PMID:40546206
+  title: '[The contribution of high-throughput sequencing in malignant hematological
+    disorders].'
+  authors:
+  - Pierre Sujobert
+  - Anne-Sophie Alary
+  - Fanny Baran-Marszak
+  - Jean-Michel Cayuela
+  - Pascale Flandrin
+  - Damien Luque Paz
+  - Olivier Kosminder
+  publisher: La Revue du praticien
+  date: '2024-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40546206
+  type: paper
+  group: featured
+  description: test
+  tags:
+  - new16
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-024-73027-1
+  title: Cancer associated variant enrichment CAVE, a gene agnostic approach to identify
+    low burden variants in chronic lymphocytic leukemia
+  authors:
+  - Adar Yaacov
+  - Gregory Lazarian
+  - Tatjana Pandzic
+  - "Simone Westr\xF6m"
+  - Panagiotis Baliakas
+  - Samia Imache
+  - "Val\xE9rie Lefebvre"
+  - Florence Cymbalista
+  - Fanny Baran-Marszak
+  - Shai Rosenberg
+  - Thierry Soussi
+  publisher: Scientific Reports
+  date: '2024-09-20'
+  link: https://doi.org/g8gzwq
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/06d1/11415367/39afb3caa2c3/41598_2024_73027_Fig1_HTML.gif
+  description: test
+  tags:
+  - new17
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-022-34642-6
+  title: Molecular characterization of Richter syndrome identifies de novo diffuse
+    large B-cell lymphomas with poor prognosis
+  authors:
+  - "Julien Bros\xE9us"
+  - "S\xE9bastien Hergalant"
+  - Julia Vogt
+  - Eugen Tausch
+  - Markus Kreuz
+  - Anja Mottok
+  - Christof Schneider
+  - Caroline Dartigeas
+  - Damien Roos-Weil
+  - Anne Quinquenel
+  - Charline Moulin
+  - German Ott
+  - Odile Blanchet
+  - "C\xE9cile Tomowiak"
+  - "Gr\xE9gory Lazarian"
+  - Pierre Rouyer
+  - Emil Chteinberg
+  - Stephan H. Bernhart
+  - Olivier Tournilhac
+  - Guillaume Gauchotte
+  - Sandra Lomazzi
+  - Elise Chapiro
+  - Florence Nguyen-Khac
+  - "C\xE9line Chery"
+  - "Fr\xE9d\xE9ric Davi"
+  - Mathilde Hunault
+  - "R\xE9mi Houlgatte"
+  - Andreas Rosenwald
+  - Alain Delmer
+  - David Meyre
+  - "Marie-Christine B\xE9n\xE9"
+  - Catherine Thieblemont
+  - Peter Lichter
+  - Ole Ammerpohl
+  - "Jean-Louis Gu\xE9ant"
+  - Stephan Bernhart
+  - "Romain Gui\xE8ze"
+  - "Jos\xE9 Ignacio Martin-Subero"
+  - Florence Cymbalista
+  - Pierre Feugier
+  - Reiner Siebert
+  - Stephan Stilgenbauer
+  publisher: Nature Communications
+  date: '2023-01-19'
+  link: https://doi.org/g697zz
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7167/9852595/8c327c8fd552/41467_2022_34642_Fig1_HTML.gif
+  description: test
+  tags:
+  - new18
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood.2022015581
+  title: Inhibition of a new AXL isoform, AXL3, induces apoptosis of mantle cell lymphoma
+    cells
+  authors:
+  - Pascal Gelebart
+  - May Eriksen Gjerstad
+  - Susanne Benjaminsen
+  - Jianhua Han
+  - Ida Karlsen
+  - Mireia Mayoral Safont
+  - Calum Leitch
+  - Zinayida Fandalyuk
+  - Mihaela Popa
+  - Lars Helgeland
+  - Bela Papp
+  - Fanny Baran-Marszak
+  - Emmet McCormack
+  publisher: Blood
+  date: '2023-10-26'
+  link: https://doi.org/hbth4r
+  type: paper
+  group: featured
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/142/17/10.1182_blood.2022015581/2/blood_bld-2022-015581-ga1.jpeg
+  description: test
+  tags:
+  - new19
+  plugin: sources.py
+  file: sources.yaml
+- id: DOI:10.1038/s41375-022-01802-y
+  title: 'Different prognostic impact of recurrent gene mutations in chronic lymphocytic
+    leukemia depending on IGHV gene somatic hypermutation status: a study by ERIC
+    in HARMONY'
+  authors:
+  - Larry Mansouri
+  - Birna Thorvaldsdottir
+  - Lesley-Ann Sutton
+  - Georgios Karakatsoulis
+  - Manja Meggendorfer
+  - Helen Parker
+  - Ferran Nadeu
+  - Christian Brieghel
+  - Stamatia Laidou
+  - Riccardo Moia
+  - Davide Rossi
+  - Mark Catherwood
+  - Jana Kotaskova
+  - Julio Delgado
+  - "Ana E. Rodr\xEDguez-Vicente"
+  - "Roc\xEDo Benito"
+  - Gian Matteo Rigolin
+  - Silvia Bonfiglio
+  - Lydia Scarfo
+  - Mattias Mattsson
+  - Zadie Davis
+  - Ajay Gogia
+  - Lata Rani
+  - Panagiotis Baliakas
+  - Hassan Foroughi-Asl
+  - "Cecilia Jylh\xE4"
+  - Aron Skaftason
+  - Inmaculada Rapado
+  - Fatima Miras
+  - "Joaqu\xEDn Martinez-Lopez"
+  - Javier de la Serna
+  - "Jes\xFAs Mar\xEDa Hern\xE1ndez Rivas"
+  - Patrick Thornton
+  - "Mar\xEDa Jos\xE9 Larr\xE1yoz"
+  - "Mar\xEDa Jos\xE9 Calasanz"
+  - "Vikt\xF3ria F\xE9s\xFCs"
+  - "Zolt\xE1n M\xE1trai"
+  - "Csaba B\xF6d\xF6r"
+  - Karin E. Smedby
+  - Blanca Espinet
+  - Anna Puiggros
+  - Ritu Gupta
+  - Lars Bullinger
+  - Francesc Bosch
+  - "B\xE1rbara Taz\xF3n-Vega"
+  - Fanny Baran-Marszak
+  - David Oscier
+  - Florence Nguyen-Khac
+  - Thorsten Zenz
+  - Maria Jose Terol
+  - Antonio Cuneo
+  - "Mar\xEDa Hern\xE1ndez-S\xE1nchez"
+  - Sarka Pospisilova
+  - Ken Mills
+  - Gianluca Gaidano
+  - Carsten U. Niemann
+  - Elias Campo
+  - Jonathan C. Strefford
+  - Paolo Ghia
+  - Kostas Stamatopoulos
+  - Richard Rosenquist
+  publisher: Leukemia
+  date: '2022-12-24'
+  link: https://doi.org/grp7pk
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c6fa/9898037/b3de1ef0c449/41375_2022_1802_Fig1_HTML.gif
+  description: test
+  tags:
+  - new20
+  plugin: sources.py
+  file: sources.yaml
+- id: DOI:10.1038/s41417-023-00602-5
+  title: Immuno-regulatory malignant B cells contribute to Chronic Lymphocytic Leukemia
+    progression
+  authors:
+  - "Ars\xE8ne M\xE9kinian"
+  - Anne Quinquenel
+  - "Koce\xEFla Ait Belkacem"
+  - Feriel Kanoun
+  - Elisabetta Dondi
+  - Emilie Franck
+  - Marouane Boubaya
+  - "Ma\xEFssa Mhibik"
+  - Fanny Baran-Marszak
+  - "R\xE9mi Letestu"
+  - Florence Ajchenbaum-Cymbalista
+  - "Vincent L\xE9vy"
+  - Nadine Varin-Blank
+  - Christine Le Roy
+  publisher: Cancer Gene Therapy
+  date: '2023-03-28'
+  link: https://doi.org/hbswrv
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab4e/10353928/45cf132529b3/41417_2023_602_Fig1_HTML.gif
+  description: test
+  tags:
+  - new21
+  plugin: sources.py
+  file: sources.yaml
+- id: DOI:10.3390/ijms242417623
+  title: "Identification of the Axis \u03B2-Catenin\u2013BTK in the Dynamic Adhesion\
+    \ of Chronic Lymphocytic Leukemia Cells to Their Microenvironment"
+  authors:
+  - Imane Mihoub
+  - Tareck Rharass
+  - "Souha\xEFl Ouriemmi"
+  - Antonin Oudar
+  - Laure Aubard
+  - "Val\xE9rie Gratio"
+  - Gregory Lazarian
+  - Jordan Ferreira
+  - Elisabetta Dondi
+  - Florence Cymbalista
+  - Vincent Levy
+  - Fanny Baran-Marszak
+  - Nadine Varin-Blank
+  - Dominique Ledoux
+  - Christine Le Roy
+  - Laura Gardano
+  publisher: International Journal of Molecular Sciences
+  date: '2023-12-18'
+  link: https://doi.org/hbswrt
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c4fd/10744074/f5aec48d61d8/ijms-24-17623-g001.gif
+  description: test
+  tags:
+  - new22
+  plugin: sources.py
+  file: sources.yaml
+- id: DOI:10.3389/fimmu.2022.1029759
+  title: Insulin-regulated aminopeptidase contributes to setting the intensity of
+    FcR-mediated inflammation
+  authors:
+  - Manuela Bratti
+  - Shamila Vibhushan
+  - "Cyril Long\xE9"
+  - Despoina Koumantou
+  - "Ga\xEBl M\xE9nasch\xE9"
+  - Marc Benhamou
+  - Nadine Varin-Blank
+  - Ulrich Blank
+  - Loredana Saveanu
+  - Sanae Ben Mkaddem
+  publisher: Frontiers in Immunology
+  date: '2022-10-27'
+  link: https://doi.org/hbswq5
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2175/9647545/26f5e40f9d69/fimmu-13-1029759-g001.gif
+  description: test
+  tags:
+  - new23
+  plugin: sources.py
+  file: sources.yaml
+- id: DOI:10.46439/immunol.1.011
+  title: 'The strange case of nurse cells: Dr. Jekyll or Mr. Hyde?'
+  authors: []
+  publisher: Journal of Cellular and Molecular Immunology
+  date: '2022-12-31'
+  link: https://doi.org/hbth43
+  type: paper
+  group: featured
+  image: https://www.probiologists.com/public/assets/images/uploads/image-1734346230-1.jpg
+  description: test
+  tags:
+  - new24
+  plugin: sources.py
+  file: sources.yaml
+- id: DOI:10.1002/jha2.434
+  title: Dihydroorotate dehydrogenase inhibition acts synergistically with tyrosine
+    kinase inhibitors to induce apoptosis of mantle cell lymphoma cells
+  authors:
+  - "May Eriksen\u2010Gjerstad"
+  - Ida Tveit Karlsen
+  - Zinayida Fandalyuk
+  - Susanne Benjaminsen
+  - "Fanny Baran\u2010Marszak"
+  - Bela Papp
+  - Frederick Locke
+  - Marcus Ladds
+  - "Andr\xE9s Pastor\u2010Fern\xE1ndez"
+  - Pascal Gelebart
+  - Emmet Mc Cormack
+  publisher: eJHaem
+  date: '2022-05-15'
+  link: https://doi.org/g9jjqf
+  type: paper
+  group: featured
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e854/9422018/c81acc105d21/JHA2-3-913-g002.gif
+  description: test
+  tags:
+  - new25
+  plugin: sources.py
+  file: sources.yaml
+- id: DOI:10.1684/abc.2021.1692
+  title: Relapse of acquired von Willebrand syndrome in a patient non-compliant with
+    Crohn's disease
+  authors:
+  - Myriam Hormi
+  - "Melchior Le M\xE9n\xE9"
+  - "C\xE9line Comparon"
+  - Imededdine El Kout
+  - Fanny Baran-Marszak
+  - Nathalie Itzhar-Baikian
+  - Virginie Siguret
+  - Robin Dhote
+  publisher: Annales de Biologie Clinique
+  date: '2022-02-01'
+  link: https://doi.org/hbth6c
+  type: paper
+  group: featured
+  description: test
+  tags:
+  - new26
+  plugin: sources.py
+  file: sources.yaml
+- id: DOI:10.3389/fonc.2022.841630
+  title: Impact of Low-Burden TP53 Mutations in the Management of CLL
+  authors:
+  - Gregory Lazarian
+  - Florence Cymbalista
+  - Fanny Baran-Marszak
+  publisher: Frontiers in Oncology
+  date: '2022-02-08'
+  link: https://doi.org/hbswrw
+  type: paper
+  group: featured
+  description: test
+  tags:
+  - new27
+  plugin: sources.py
+  file: sources.yaml
+- id: DOI:10.1002/ajh.26479
+  title: <scp>TP53</scp> mutations at codon 234 are associated with chlorambucil treatment
+    in chronic lymphocytic leukemia
+  authors:
+  - "Gr\xE9gory Lazarian"
+  - Floriane Theves
+  - Myriam Hormi
+  - "R\xE9mi Letestu"
+  - Virginie Eclache
+  - Audrey Bidet
+  - "Pascale Cornillet\u2010Lefebvre"
+  - "Fr\xE9d\xE9ric Davi"
+  - Eric Delabesse
+  - "Marie\u2010H\xE9l\xE8ne Estienne"
+  - Pascaline Etancelin
+  - Olivier Kosmider
+  - Sophy Laibe
+  - Laurence Lode
+  - Marc Muller
+  - Nathalie Nadal
+  - Dina Naguib
+  - "C\xE9dric Pastoret"
+  - "St\xE9phanie Poulain"
+  - Pierre Sujobert
+  - Lauren Veronese
+  - Samia Imache
+  - "Val\xE9rie Lefebvre"
+  - Florence Cymbalista
+  - "Fanny Baran\u2010Marszak"
+  - Thierry Soussi
+  publisher: American Journal of Hematology
+  date: '2022-02-01'
+  link: https://doi.org/gqwsp9
+  type: paper
+  group: featured
+  description: test
+  tags:
+  - new28
+  plugin: sources.py
+  file: sources.yaml
+- id: DOI:10.1182/bloodadvances.2021006169
+  title: Nurselike cells sequester B cells in disorganized lymph nodes in chronic
+    lymphocytic leukemia via alternative production of CCL21
+  authors:
+  - Rim Zaaboub
+  - Lene Vimeux
+  - Vincent Contremoulins
+  - Florence Cymbalista
+  - "Vincent L\xE9vy"
+  - Emmanuel Donnadieu
+  - Nadine Varin-Blank
+  - Antoine Martin
+  - Elisabetta Dondi
+  publisher: Blood Advances
+  date: '2022-08-12'
+  link: https://doi.org/g5gch8
+  type: paper
+  group: featured
+  image: hhttps://cdn.ncbi.nlm.nih.gov/pmc/blobs/6e07/9631672/7c6637fe3aee/advancesADV2021006169absf1.jpg
+  description: test
+  tags:
+  - new29
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/ijms242417623
+  title: "Identification of the Axis \u03B2-Catenin\u2013BTK in the Dynamic Adhesion\
+    \ of Chronic Lymphocytic Leukemia Cells to Their Microenvironment"
+  authors:
+  - Imane Mihoub
+  - Tareck Rharass
+  - "Souha\xEFl Ouriemmi"
+  - Antonin Oudar
+  - Laure Aubard
+  - "Val\xE9rie Gratio"
+  - Gregory Lazarian
+  - Jordan Ferreira
+  - Elisabetta Dondi
+  - Florence Cymbalista
+  - Vincent Levy
+  - Fanny Baran-Marszak
+  - Nadine Varin-Blank
+  - Dominique Ledoux
+  - Christine Le Roy
+  - Laura Gardano
+  publisher: International Journal of Molecular Sciences
+  date: '2023-12-18'
+  link: https://doi.org/hbswrt
+  type: paper
+  image: https://www.mdpi.com/ijms/ijms-24-17623/article_deploy/html/images/ijms-24-17623-g001-550.jpg
+  description: test
+  tags:
+  - test3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41417-023-00602-5
+  title: Immuno-regulatory malignant B cells contribute to Chronic Lymphocytic Leukemia
+    progression
+  authors:
+  - "Ars\xE8ne M\xE9kinian"
+  - Anne Quinquenel
+  - "Koce\xEFla Ait Belkacem"
+  - Feriel Kanoun
+  - Elisabetta Dondi
+  - Emilie Franck
+  - Marouane Boubaya
+  - "Ma\xEFssa Mhibik"
+  - Fanny Baran-Marszak
+  - "R\xE9mi Letestu"
+  - Florence Ajchenbaum-Cymbalista
+  - "Vincent L\xE9vy"
+  - Nadine Varin-Blank
+  - Christine Le Roy
+  publisher: Cancer Gene Therapy
+  date: '2023-03-28'
+  link: https://doi.org/hbswrv
+  type: paper
+  image: https://www.nature.com/articles/s41417-023-00602-5/figures/1
+  description: test
+  tags:
+  - test4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fonc.2022.841630
+  title: Impact of Low-Burden TP53 Mutations in the Management of CLL
+  authors:
+  - Gregory Lazarian
+  - Florence Cymbalista
+  - Fanny Baran-Marszak
+  publisher: Frontiers in Oncology
+  date: '2022-02-08'
+  link: https://doi.org/hbswrw
+  type: paper
+  tags:
+  - test6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ccell.2021.02.003
+  title: A hotspot mutation in transcription factor IKZF3 drives B cell neoplasia
+    via transcriptional dysregulation
+  authors:
+  - Gregory Lazarian
+  - Shanye Yin
+  - Elisa ten Hacken
+  - Tomasz Sewastianik
+  - Mohamed Uduman
+  - Alba Font-Tello
+  - Satyen H. Gohil
+  - Shuqiang Li
+  - Ekaterina Kim
+  - Heather Joyal
+  - Leah Billington
+  - Elizabeth Witten
+  - Mei Zheng
+  - Teddy Huang
+  - Mariano Severgnini
+  - Valerie Lefebvre
+  - Laura Z. Rassenti
+  - Catherine Gutierrez
+  - Katia Georgopoulos
+  - Christopher J. Ott
+  - Lili Wang
+  - Thomas J. Kipps
+  - Jan A. Burger
+  - Kenneth J. Livak
+  - Donna S. Neuberg
+  - Fanny Baran-Marszak
+  - Florence Cymbalista
+  - Ruben D. Carrasco
+  - Catherine J. Wu
+  publisher: Cancer Cell
+  date: '2021-03-01'
+  link: https://doi.org/hbswrx
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1535610821001057-fx1.jpg
+  tags:
+  - test7
+  plugin: sources.py
+  file: sources.yaml
