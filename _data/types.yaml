@@ -18,6 +18,9 @@ ro:
   icon: fa-solid fa-glasses
   description: Research Officer
 
+research-engineer: 
+  icon: fa-solid fa-glasses
+  description: Research Engineer
 
 associate-professor:
   icon: fa-solid fa-graduation-cap

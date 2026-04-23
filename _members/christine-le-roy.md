@@ -1,6 +1,6 @@
 ---
 name: Christine LE-ROY
-image: 
+image: images/team/christine-le-roy.jpg
 description: Research Officer
 role: ro
 aliases:
