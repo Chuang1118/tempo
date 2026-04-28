@@ -1,6 +1,6 @@
 ---
 name: Elisabetta Dondi
-image: 
+image: images/team/elisabetta-dondi_cropped.jpg
 role: research-engineer 
 aliases:
   - Elisabetta Dondi

@@ -1,6 +1,6 @@
 ---
 name: Laura Gardano
-image: 
+image: images/team/laura-gardano.jpg
 description: Associate Professor
 role: associate-professor
 aliases:
