@@ -47,7 +47,7 @@ Support is currently provided on a consulting basis, including guidance in exper
 
 {%
   include figure.html
-  image="../../images/technology/msd_instruments.png"
+  image="images/technology/msd_instruments.png"
   caption="MESO QuickPlex SQ120"
 %}
 {% endcapture %}
@@ -55,7 +55,7 @@ Support is currently provided on a consulting basis, including guidance in exper
 
 {%
   include figure.html
-  image="../../images/technology/thermoshaker_instruments.png"
+  image="images/technology/thermoshaker_instruments.png"
   caption="Grant Bio PHMP-4"
 %}
 {% endcapture %}
@@ -72,7 +72,7 @@ Support is currently provided on a consulting basis, including guidance in exper
 {% include section.html size="full" %}
 {%
   include figure.html
-  image="../../images/technology/map_pub.png"
+  image="images/technology/map_pub.png"
 %}
 {% include section.html %}
 
