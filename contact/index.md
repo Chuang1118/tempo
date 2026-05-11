@@ -6,7 +6,7 @@ nav:
 ---
 
 {% include section.html size="full" %}
-{% include banner.html image="images/Bobigny_crop.png" %}
+{% include banner.html image="images/Bobigny_cropped.png" %}
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-lightbulb" %}Contact
@@ -16,9 +16,13 @@ UMR1349 is an Inserm, Avicenne hospital and Sorbonne Paris Nord University (UPSN
 We are located on the 0th floor of [UFR SMBH (Research Laboratory Department)](https://www.univ-spn.fr/portfolio/ufr-smbh/), on UPSN Bobigny campus.
 
 
-**Head of the unit**
+**Unit Director**
 
 Nadine Varin-Blank
+
+**Deputy Director**
+
+Christine LE-ROY
 
 **Administrative manager**
 
@@ -34,6 +38,14 @@ Nadine Varin-Blank
   text="nadine.varin@inserm.fr"
   link="nadine.varin@inserm.fr"
 %}
+
+{%
+  include button.html
+  type="email"
+  text="christine.le-roy@inserm.fr"
+  link="christine.le-roy@inserm.fr"
+%}
+
 {%
   include button.html
   type="phone"

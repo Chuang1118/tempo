@@ -1,6 +1,7 @@
 ---
 name: Claudine Irles
 image: 
+description: Associate Professor (MCF USPN)
 role: associate-professor
 aliases:
   - Claudine Irles

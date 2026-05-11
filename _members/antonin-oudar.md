@@ -1,6 +1,7 @@
 ---
 name: Antonin Oudar
 image:
+description: Research Assistant (AI INSERM)
 role: ra
 aliases:
   - Antonin Oudar

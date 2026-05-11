@@ -1,6 +1,7 @@
 ---
 name: Nadine Varin-Blank
 image: images/team/nadine-varin-blank.jpg
+description: Unit Director (DR INSERM)
 role: principal-investigator
 affiliation: Inserm
 aliases:

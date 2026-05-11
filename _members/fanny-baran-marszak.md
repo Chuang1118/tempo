@@ -1,6 +1,7 @@
 ---
 name: Fanny Baran-Marszak
 image: images/team/fanny-baran-marszak_cropped.jpg
+description: Professor (PU-PH)
 role: pu-ph
 aliases:
   - Fanny Baran-Marszak

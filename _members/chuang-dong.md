@@ -1,7 +1,7 @@
 ---
 name: Chuang Dong
 image: images/team/Chuang_Dong.jpg
-description: Bioinformatics Specialist
+description: Bioinformatics Scientist (IE INSERM)
 role: programmer
 aliases:
   - Chuang Dong

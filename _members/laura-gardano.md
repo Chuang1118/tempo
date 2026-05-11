@@ -1,7 +1,7 @@
 ---
 name: Laura Gardano
 image: images/team/laura-gardano.jpg
-description: Associate Professor
+description: Associate Professor (MCF HDR USPN)
 role: associate-professor
 aliases:
   - Laura Gardano

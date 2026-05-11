@@ -1,5 +1,5 @@
 ---
-title: Study of alterations in the communication and activation mechanisms of mast cells and B lymphocytes in ageing and neoplastic diseases
+title: MIAMO-CLL
 image: images/projects/miamo-cll/miamo-cll-graphical-abstract.png
 investigators: claudine-irles
 supervisors:
@@ -12,7 +12,7 @@ tags:
 ---
 
 <!-- excerpt start -->
-Multimodal Artificial intelligence/Machine Learning and Ontology-Based Predictive Models for Chronic Lymphocytic Leukemia: MIAMO-LLC (Multimodal Modeling of Chronic Lymphocytic Leukemia. 
+Multimodal Artificial intelligence/Machine Learning and Ontology-Based Predictive Models for Chronic Lymphocytic Leukemia: MIAMO-CLL (Multimodal Modeling of Chronic Lymphocytic Leukemia. 
 PI (grant Infibrex Labex, 2024 - to date).
 <!-- excerpt end -->
 

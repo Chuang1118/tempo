@@ -1,8 +1,9 @@
 ---
-title: Tumor cells in their microenvironment
+title: Tumor–immune microenvironment crosstalk
 image: images/science/environnement.jpg
 group: featured_topic2
-description: Permissive stromal environment, Tolerogenic environment, Molecular interactions => Identification of alternative therapeutic targets
+description: Stromal environment, Tolerogenic environment, Molecular interactions, Metabolism
+link: science_data/topics/Topic_2
 tag:
   - Topic2
 ---

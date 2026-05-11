@@ -1,11 +1,23 @@
 ---
-title: my_focus
+title: topics2
 ---
 
 {% include section.html size="full" %}
-{% include banner.html image="images/tech_banner_scaled.png" %}
+{% include banner.html image="images/science/banner_topics2.png" %}
 {% include section.html %}
 
+## Topics 2 staff
+
+{% include list.html data="members" component="portrait" filter="name == 'Laura Gardano'" style="small" show_name=true %}
+{% include list.html data="members" component="portrait" filter="name == 'Gregory Lazarian'" style="small" show_name=true %}
+{% include list.html data="members" component="portrait" filter="name == 'Fanny Baran-Marszak'" style="small" show_name=true %}
+{% include list.html data="members" component="portrait" filter="name == 'Elisabetta Dondi'" style="small" show_name=true %}
+{% include list.html data="members" component="portrait" filter="name == 'Lola Ozenne'" style="small" show_name=true %}
+{% include list.html data="members" component="portrait" filter="name == 'Nessrine Rabhi'" style="small" show_name=true %}
+{% include list.html data="members" component="portrait" filter="name == 'Mélanie Lambert'" style="small" show_name=true %}
+{% include list.html data="members" component="portrait" filter="name == 'Chuang Dong'" style="small" show_name=true %}
+{% include section.html %}
+## Research
 We characterized the **molecular crosstalks** responsible for a **protective microenvironment** and the **formation of a tumor cell niche**.
 
 B cells from CLL or MCL infiltrate stromal cell lines or bone marrow-derived stromal cells in ex-vivo cultures, enhancing tumor survival. This protective role of the stromal layer is mediated by the stabilization of BCR signaling effectors in malignant B cells. In particular, we have demonstrated a dual role of stabilized b-catenin, at the plasma membrane by promoting adhesion to stromal cells and in the nucleus by inducing transcription of pro-survival factors such as IL6. Also, tumor cells promote metabolic changes in stromal cells, which in turn produce factors (Wnt16) that further activate B cells ([G Lazarian et al., Oncogene 2020](https://www.nature.com/articles/s41388-020-1183-x)).

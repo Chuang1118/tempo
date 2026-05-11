@@ -1,6 +1,7 @@
 ---
 name: Kevin Saitoski
 image: images/team/kevin-saitoski.jpg
+description: Associate Professor (MCF USPN)
 role: associate-professor
 aliases:
   - Kevin Saitoski

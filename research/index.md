@@ -15,44 +15,15 @@ nav:
 Translational and basic research on CLL focuses on three main areas: 1) better defining genetic and functional alterations, particularly with the aim of improving patient stratification and understanding tumor progression; 2) determining the influence of the tumor microenvironment on tumor progression; 3) translational and machine learning models for integrating fundamental and clinical-biological data into preclinical research.
 
 {% capture col1 %}
-
 {% include list.html data="science_data" component="card" filter="group == 'featured_topic1'" %}
-
-{%
-  include button.html
-  link="science_data/topics/Topic_1"
-  text="READ MORE"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-
 {% endcapture %}
+
 {% capture col2 %}
-
 {% include list.html data="science_data" component="card" filter="group == 'featured_topic2'" %}
-
-{%
-  include button.html
-  link="science_data/topics/Topic_2"
-  text="READ MORE"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-
 {% endcapture %}
 
 {% capture col3 %}
-
 {% include list.html data="science_data" component="card" filter="group == 'featured_topic3'" %}
-
-{%
-  include button.html
-  link="science_data/topics/Topic_3"
-  text="READ MORE"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-
 {% endcapture %}
 
 {%

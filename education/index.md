@@ -17,6 +17,8 @@ Knowledge transfer is one of SIMHEL's missions.
 
 {% include list.html data="members" component="portrait" filter="role == 'professor'" style="small" show_name=true %}
 
+{% include list.html data="members" component="portrait" filter="role == 'pu-ph'" style="small" show_name=true %}
+
 {% include list.html data="members" component="portrait" filter="role == 'associate-professor'" style="small" show_name=true %}
 
 ## Featured

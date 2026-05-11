@@ -1,6 +1,7 @@
 ---
 name: Gregory Lazarian
 image: images/team/gregory-lazarian_cropped.jpg
+description: Associate Professor (MCU-PH)
 role: associate-professor
 aliases:
   - Gregory Lazarian

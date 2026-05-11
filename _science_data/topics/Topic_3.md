@@ -1,9 +1,17 @@
 ---
-title: my_focus
+title: topics3
 ---
 
 {% include section.html size="full" %}
 {% include banner.html image="images/tech_banner_scaled.png" %}
+{% include section.html %}
+
+## Topics 3 staff
+
+{% include list.html data="members" component="portrait" filter="name == 'Claudine Irles'" style="small" show_name=true %}
+{% include list.html data="members" component="portrait" filter="name == 'Lucas Vauchot'" style="small" show_name=true %}
+{% include list.html data="members" component="portrait" filter="name == 'Kiruthiga Kannaya'" style="small" show_name=true %}
+{% include list.html data="members" component="portrait" filter="name == 'Chuang Dong'" style="small" show_name=true %}
 {% include section.html %}
 
 Not only are we translating our basic science into **daily practice and European recommendations** for disease stratification, but we are also adding economic and societal value to our knowledge on signaling targets. 

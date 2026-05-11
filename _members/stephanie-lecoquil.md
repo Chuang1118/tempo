@@ -1,7 +1,7 @@
 ---
 name: Stephanie Le Coquil
 image: images/team/stephanie-lecoquil.jpg
-description: Research Assistant
+description: Research Assistant ((AI USPN)
 role: ra
 aliases:
   - Stephanie Le Coquil

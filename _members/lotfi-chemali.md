@@ -1,7 +1,7 @@
 ---
 name: Lotfi Chemali
 image: images/team/lotfi-chemali_cropped.png
-description: Hospital Assistant
+description: Hospital Assistant (AHU)
 role: ra
 aliases:
   - Lotfi Chemali

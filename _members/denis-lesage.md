@@ -1,6 +1,7 @@
 ---
 name: Denis Lesage
 image: images/team/denis-lesage3.jpeg
+description: Associate Professor (MCF USPN)
 role: associate-professor
 aliases:
   - Denis Lesage

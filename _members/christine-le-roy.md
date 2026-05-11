@@ -1,7 +1,7 @@
 ---
 name: Christine LE-ROY
 image: images/team/christine-le-roy.jpg
-description: Research Officer
+description: Deputy Director (CR HDR INSERM)
 role: ro
 aliases:
   - Christine LE-ROY 

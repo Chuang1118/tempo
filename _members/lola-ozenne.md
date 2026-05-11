@@ -2,6 +2,7 @@
 name: Lola Ozenne
 image: images/team/lola-ozenne_cropped.jpeg
 role: phd
+cosupervisors: Laura Gardano
 aliases:
   - L. Ozenne
   - Lola Ozenne

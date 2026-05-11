@@ -1,7 +1,7 @@
 ---
 name: Marie Ducroux
 role: phd
-#cosupervisors: miguel-bessa
+cosupervisors: Christine le-roy
 aliases:
   - Marie Ducroux
   - M. Ducroux

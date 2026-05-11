@@ -5,12 +5,9 @@
 {% include section.html %}
 
 
-# **Signaling Microenvironment and B Lymphoid Hemopathies** 
+# **Signaling Microenvironment and B Lymphoid Hemopathies**
 
-INSERM UMRS 1349 SIMHEL is a single-team unit created in 2009 that develops a program of translational and fundamental research on CLL (chronic lymphocytic leukemia). This approach helps quickly move basic research into clinical applications: turning research into real-world treatments. The three main pillars of our research are:
-- **Function of leukemic cells** Identification of functional alterations regulating BCR signaling and CLL survival thermoplastic tapes 
-- **Tumor cells in their microenvironment** 
-- **Transfer to the patient** 
+**INSERM UMR 1349 SIMHEL is a single-team unit created in 2009 that develops a program of translational and fundamental research on CLL (chronic lymphocytic leukemia). This approach helps quickly move basic research into clinical applications: turning research into real-world treatments.**
 
 {% capture col1 %}
 
@@ -39,7 +36,6 @@ INSERM UMRS 1349 SIMHEL is a single-team unit created in 2009 that develops a pr
    link="team" 
 %}
 
-
 {% endcapture %}
 
 {%
@@ -47,6 +43,37 @@ INSERM UMRS 1349 SIMHEL is a single-team unit created in 2009 that develops a pr
   col1=col1
   col2=col2
   col3=col3
+%}
+
+{% include section.html %}
+
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/Call_CPJ.png"
+  width="800px"
+%}
+
+{% endcapture %}
+{% capture col2 %}
+
+## <span style="color:#354878">**Call for applicants for the Inserm chair in cancer research**</span>
+
+<span style="color:#8b7d6d">**INSERM invites applications from junior profossorship who wish to manage and lead research teams and participate in national, European or international projects. The position is offered on a fixed-term contract with a view to tenure in the Inserm Research Director personnel at the end of the contract.**</span>
+{%
+  include button.html
+  link="opportunities"
+  text="READ MORE"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+
+{% endcapture %}
+
+{%
+  include cols.html
+  col1=col1
+  col2=col2
 %}
 
 {% include section.html %}
@@ -64,16 +91,13 @@ INSERM UMRS 1349 SIMHEL is a single-team unit created in 2009 that develops a pr
 
 {% endcapture %}
 {% capture col2 %}
-The TisCel13 platform offers and develops services that enable the visualization and analysis of the structure, dynamics, interactions, and functions of normal and pathological tissues and cell populations using a variety of methodological approaches. To this end, the TisCel13 platform brings together histology and flow cytometry resources under one roof.
+<br/>
+### <span style="color:#8b7d6d">**"Meaningful research begins with motivation, and failures guide us toward improvement."**</span>
+<br/>
+<br/>
+<span style="color:#354878">Dominique Ledoux</span>
 
-{%
-  include button.html
-  link="https://tiscel13.univ-paris13.fr/index.php"
-  text="READ MORE"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
+<span style="color:#354878">**Professor of Molecular Biology at Sorbonne Paris-Nord University /  Vice president for research at the university (2014–2016) / Director of the university’s doctoral school “Sciences, Technologies, Santé-Galilée” (2016–2020)**</span>
 {% endcapture %}
 
 
@@ -139,9 +163,9 @@ The TisCel13 platform offers and develops services that enable the visualization
 
 {%
   include figure.html
-  image="images/funding/Logo-Avicenne.png"
+  image="images/funding/Logo-Avicenne_new.jpg"
   link="https://chu93.aphp.fr/"
-  width="400px"
+  width="260px"
 %}
 
 

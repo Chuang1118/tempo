@@ -1,7 +1,7 @@
 ---
 name: Laure Aubard
 image: images/team/laure-aubard.jpg
-description: Research Assistant
+description: Research Assistant (IE USPN)
 role: ra
 aliases:
   - L. Aubard

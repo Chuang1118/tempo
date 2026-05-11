@@ -1,6 +1,7 @@
 ---
 name: Elisabetta Dondi
 image: images/team/elisabetta-dondi_cropped.jpg
+description: Research Engineer (IR USPN)
 role: research-engineer 
 aliases:
   - Elisabetta Dondi

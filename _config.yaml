@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: UMRS 1349
+title: UMR 1349
 subtitle: at Sorbonne Paris Nord University 
 description: immunology · immunotherapy · cancer · bioinformatics
 header: images/banner.png
@@ -42,11 +42,11 @@ defaults:
       type: "science_data"
     values:
       layout: default
-  # markdown files in /_science_data_topics
-  #- scope:
-  #    type: "science_data_topics"
-  #  values:
-  #    layout: default    
+  # markdown files in /_technology_data
+  - scope:
+      type: "technology_data"
+    values:
+      layout: default    
   # markdown files in /_education_data
   - scope:
       type: "education_data"
@@ -69,9 +69,9 @@ collections:
   # generate page for each science and data entry
   science_data:
     output: true  
-  # generate page for each science topics and data entry
-  #science_data_topics:
-  #  output: true    
+  # generate page for each technology and data entry
+  technology_data:
+    output: true    
   # generate page for each education and data entry
   education_data:
     output: true    

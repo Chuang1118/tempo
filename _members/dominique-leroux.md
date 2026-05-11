@@ -1,7 +1,7 @@
 ---
 name: Dominique Ledoux
 image: images/team/dominique-ledoux.png
-description: Professor
+description: Professor (PR USPN)
 role: professor
 aliases:
   - Dominique Ledoux

@@ -1,6 +1,7 @@
 ---
 name: Mélanie Lambert
-# image: 
+image: images/team/melanie-lambert.webp
+description: Associate Professor (MCF USPN)
 role: associate-professor
 aliases:
   - Mélanie Lambert
@@ -8,6 +9,7 @@ aliases:
   - M Lambert
 links:
   email: melanie.lambert@inserm.fr
+  researchgate: Melanie-Lambert
 ---
 
 Mélanie Lambert, PhD is an Associate Professor and biomedical researcher specializing in hematological malignancies, with a focus on the interplay between cell-intrinsic programs and the tumor microenvironment.
@@ -17,7 +19,9 @@ She obtained her PhD (2018)  in Genetics from the University of Lille, where she
 She then completed a postdoctoral fellowship at the Karolinska Institutet, where she developed expertise in immunotherapy, cell migration, and bone marrow niche biology, studying how cellular interactions shape disease progression and therapeutic response.
 
 She is currently an Associate Professor (IUT de Bobigny) and Inserm researcher at SIMHEL. Her research explores how metabolic and microenvironmental interactions influence hematological malignancies, with a particular interest in:
-
+<br/>
+<br/>
+<br/>
 - tumor–microenvironment crosstalk
 - cellular metabolism in cancer
 - immune interactions and cell trafficking
