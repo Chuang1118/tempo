@@ -3,7 +3,7 @@
   align-items: center;
   justify-content: left;
   padding: 0px 0px;
-  background-color: #243871;
+  background-color: #293358;
   color: white;
   text-decoration: none;
   border-radius: 0px;
@@ -23,7 +23,7 @@
 }
 
 .button-link:hover {
-  background-color: #927E6E;
+  background-color: #8b7d6d;
   transform: translateY(-2px);
 }
 

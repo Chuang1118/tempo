@@ -13,7 +13,7 @@
   margin: 0;
   padding: 5px 10px;
   border-radius: 999px;
-  background: #243871;
+  background: #293358;
   color: white;
   text-decoration: none;
   overflow: hidden;
@@ -23,11 +23,11 @@
 }
 
 .tag:hover {
-  background: #927E6E;
+  background: #8b7d6d;
 }
 
 .tag[data-active] {
-  background: #927E6E;
+  background: #8b7d6d;
 }
 
 /*# sourceMappingURL=tags.css.map */
