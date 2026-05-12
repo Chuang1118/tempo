@@ -79,6 +79,41 @@
 {% include section.html %}
 
 {% capture col1 %}
+{%
+  include figure.html
+  image="images/eric.jpg"
+  width="800px"
+%}
+
+{% endcapture %}
+{% capture col2 %}
+
+## <span style="color:#354878">**Signaling targets in search of societal impact**</span>
+
+<span style="color:#8b7d6d">**Beyond translating basic science into European guidelines, our work adds societal value through our knowledge on signaling target, specifically targeting the gap between what guidelines recommend ("ideal practice") and what happens in the clinic ("realistic best practice").**</span>
+
+{%
+  include button.html
+  link="science_data/topics/Topic_3"
+  text="READ MORE"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+
+{% endcapture %}
+
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+%}
+
+
+
+
+{% include section.html %}
+
+{% capture col1 %}
 
 <div style="max-width:600px;">
   <iframe width="100%" height="400"
