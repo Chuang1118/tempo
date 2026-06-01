@@ -28,7 +28,7 @@ Dr. Nadine Varin-Blank, INSERM Research Director is heading the INSERM 1349 Unit
 
 {%
   include feature.html
-  image="images/team/nadine-varin-blank_scaled.jpg"
+  image="images/team/nadine-varin.JPG"
   title="Dr. Nadine Varin-Blank"
   component="portrait"
   text=text

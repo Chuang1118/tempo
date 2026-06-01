@@ -7,13 +7,13 @@
 
 # **Signaling Microenvironment and B Lymphoid Hemopathies**
 
-**INSERM UMR 1349 SIMHEL is a single-team unit created in 2009 that develops a program of translational and fundamental research on CLL (chronic lymphocytic leukemia). This approach helps quickly move basic research into clinical applications: turning research into real-world treatments.**
+**Since 2009, INSERM UMR 1349 SIMHEL develops a translational program on chronic B lymphoid neoplasms, focusing on chronic lymphocytic leukemia and mantle cell lymphoma. Our strategy involves combining fundamental and clinically oriented approaches on signaling mechanisms involved in disease progression. Our aim is to translate our knowledge to the stratification of patients and to new therapeutic options.**
 
 {% capture col1 %}
 
 {% include button-link.html 
-   image_url="images/mrHvlPRY.jpeg" 
-   text="Our science" 
+   image_url="images/letterS.png" 
+   text="our **S**cience" 
    link="research" 
 %}
 
@@ -21,8 +21,8 @@
 {% capture col2 %}
 
 {% include button-link.html 
-   image_url="images/mrHvlPRY.jpeg" 
-   text="Our technology" 
+   image_url="images/letterT.png" 
+   text="our **T**echnology" 
    link="technology" 
 %}
 
@@ -31,8 +31,8 @@
 {% capture col3 %}
 
 {% include button-link.html 
-   image_url="images/mrHvlPRY.jpeg" 
-   text="Research group" 
+   image_url="images/letterG.png" 
+   text="research **G**roup" 
    link="team" 
 %}
 
@@ -177,9 +177,6 @@
 </script>
 
 {% include section.html %}
-
-# {% include icon.html icon="fa-solid fa-building-columns" %}Our research unit is funded by
-
 {% capture content %}
 
 {%

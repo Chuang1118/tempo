@@ -8,6 +8,7 @@ aliases:
   - S Le Coquil
 links:
   email: stephanie.lecoquil@univ-paris13.fr
+  orcid: 0000-0003-2906-7017
 ---
 
 Stéphanie Le Coquil is a biological engineering assistant at UMR U1349, which she joined when it was founded in 2009. Drawing on experience gained since 2004 in a university hospital setting, she applies her expertise to the functional and molecular analysis of leukemic cells.

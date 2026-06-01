@@ -7,9 +7,10 @@
   type: paper
   group: featured
   image: https://www.mdpi.com/metabolites/metabolites-16-00145/article_deploy/html/images/metabolites-16-00145-g001-550.jpg
-  description: test
+  description: Metabolic Crosstalk in the Tumor Microenvironment)
   tags:
-  - new0
+  - lipoprotein metabolism
+  - microenvironment
 
 #2025
  
@@ -17,201 +18,215 @@
   type: paper
   group: featured
   image: https://www.nature.com/articles/s41375-025-02555-0/figures/1
-  description: test
+  description: A retrospective multicentric study was conducted across 31 French Innovative Leukemia Organization (FILO-CLL) affiliated centers in France, including patients diagnosed between 1998 and 2023.
   tags:
-  - new1
+  - FILO-CLL
 
 - id: doi:10.1182/blood.2024025738
   type: paper
   group: featured
   image: https://ashpublications.org/view-large/figure/12557533/BLOOD_BLD-2024-025738-gr1ad.jpg
-  description: test
+  description: Inflammatory form of Waldenström macroglobulinemia (iWM) predicts outcomes after immuno-chemotherapy and Bruton tyrosine kinase inhibitors, but its origin is unknown. Here, we unravel increased clonal hematopoiesis in patients with iWM (61% vs 23% in noninflammatory WM), suggesting a contribution of environmental cells to iWM.
   tags:
-  - new2
+  - Hematopoiesis 
+  - Stem Cells
 
 - id: doi:10.1186/s12882-025-04014-5
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d5e1/11931814/04280783f961/12882_2025_4014_Fig1_HTML.gif
-  description: test
+  description: This is the first documented confirmation of Mycosis fungoides (MF) involvement to the kidneys through specific IHC and T-cell PCR-confirmed clonality testing. It highlights advances in therapy for localized disease and underscores the importance of confirming T-cell clonality, especially in atypical sites like the kidneys, illustrating its potential to enhance targeted therapy in disseminated MF.
   tags:
-  - new3
+  - T-cell clonality
 
 - id: doi:10.1007/s00277-025-06200-9
   type: paper
   group: featured
   image: hhttps://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b06/12141416/d7b80e4f58a4/277_2025_6200_Fig1_HTML.jpg
-  description: test
+  description: 
   tags:
-  - new4
+  - PCR
+  - BTK
 
 - id: doi:10.1002/1873-3468.15074
   type: paper
   group: featured
   image: https://febs.onlinelibrary.wiley.com/cms/asset/9ffbc0ca-4c7a-47e1-bcc2-5aae6c99ad27/feb215074-fig-0001-m.jpg
-  description: test
+  description: The development of organ-on-chip and 3D culture systems, such as spheroids, have revealed the importance of mechanical cues in regulating signaling pathways to organize cell adhesion and survival. 
   tags:
-  - new5  
+  - microenvironment  
 
 - id: doi:10.1182/blood.2023022197
   type: paper
   group: featured
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0006497124114607-BLOOD_BLD-2023-022197R1-ga1.jpg
-  description: test
+  description: By integrating single-cell dissection of the tumor landscape and an in-depth, single-cell–based off-tumor antigen prediction, we identify CD86 as a promising therapeutic target in cHL. CD86 is highly expressed on Hodgkin and Reed-Sternberg cancer cells and cHL-specific tumor-associated macrophages. 
   tags:
-  - new6
+  - transcriptomic
+  - immunotherapy
 
 - id: doi:10.3390/biology14060624
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4718/12189830/491dc2f3fe9d/biology-14-00624-g001.gif
-  description: test
+  description: tThis review explores how leukemia thrives in the bone marrow, where adipocytes supply vital nutrients and send signals that support cancer growth. In response, leukemia cells hijack these adipocytes, reshaping them to boost their survival, evade treatment, and undergo fuel relapse.
   tags:
-  - new7
+  - adipocyte 
+  - bone marrow
 
 - id: doi:10.1002/jha2.70019
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8e80/11920810/0372cf7a81bd/JHA2-6-e70019-g001.gif
-  description: test
+  description: We retrospectively analysed bortezomib–dexamethasone–rituximab (BDR) combination in patients with Waldenström macroglobulinaemia (WM) in a real world setting.
   tags:
-  - new8
+  - ERIC study
 
 - id: doi:10.1002/ajh.27650
   type: paper
   group: featured
   image: https://onlinelibrary.wiley.com/cms/asset/5411f573-a3c4-4cc1-8c4f-2cf4876aa3e8/ajh27650-fig-0001-m.jpg
-  description: test
+  description:
   tags:
-  - new9
+  - TP53 Mutation
 
 - id: doi:10.1002/hem3.70065
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c388/11746920/8f967574c58f/HEM3-9-e70065-g002.jpg
-  description: test
+  description:
   tags: 
-  - new10
+  - P53 Mutation
 
 - id: doi:10.1186/s13045-025-01725-y
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/62a7/12281749/80ee23afdf56/13045_2025_1725_Fig1_HTML.jpg
-  description: test
+  description:
   tags:
-  - new11
+  - transcriptomic
+  - circRNA
+  - BCL3
+  - ERIC study
 
 - id: doi:10.1038/s41375-025-02615-5
   type: paper
   group: featured
   image: https://www.nature.com/articles/s41375-025-02615-5/figures/1
-  description: test
+  description: 
   tags:
-  - new12-1
+  - ATM mutation
+  - ERIC study
 
 - id: doi:10.1038/s41375-025-02755-8 
   type: paper
   group: featured
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41375-025-02755-8/MediaObjects/41375_2025_2755_Fig1_HTML.png
-  description: test
+  description: 
   tags:
-  - new12-2
+  - transcriptomic
+  - ERIC study
 # 2024
 - id: doi:10.3324/haematol.2023.283141
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cf06/10772506/c0d6cb6a5435/109325.fig1.jpg
-  description: test
+  description:
   tags:
-  - new12-3
+  - WM cohorts
+  - BTK
 
 - id: doi:10.3389/fimmu.2024.1407981
   type: paper
   group: featured
-  description: test
+  description:
   tags:
-  - new13
+  - microenvironment
 
 - id: doi:10.1038/s41467-024-51264-2
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7542/11316063/4facd83305fe/41467_2024_51264_Fig1_HTML.jpg
-  description: test
+  description:
   tags:
-  - new14 
+  - therapy
+  - phase 2 multicentre trial 
 
 - id: doi:10.1002/ajh.27357 
   type: paper
   group: featured
   image: https://onlinelibrary.wiley.com/cms/asset/91d6e268-82bb-41e6-b781-37022f1347a2/ajh27357-fig-0001-m.jpg
-  description: test
+  description:
   tags:
-  - new15
+  - ENT symptoms
 
 - id: PMID:40546206 
   type: paper
   group: featured
-  description: test
+  description: 
   tags:
-  - new16  
 
 - id: doi:10.1038/s41598-024-73027-1
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/06d1/11415367/39afb3caa2c3/41598_2024_73027_Fig1_HTML.gif
-  description: test
+  description:
   tags:
-  - new17
+  - TP53 Mutation
 
 #2023
 - id: doi:10.1038/s41467-022-34642-6
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7167/9852595/8c327c8fd552/41467_2022_34642_Fig1_HTML.gif
-  description: test
+  description:
   tags:
-  - new18
+  - epigenetic
+  - transcriptomic
 
 - id: doi:10.1182/blood.2022015581
   type: paper
   group: featured
   image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/142/17/10.1182_blood.2022015581/2/blood_bld-2022-015581-ga1.jpeg
-  description: test
+  description:
   tags:
-  - new19
+  - AXL3
 
 - id: DOI:10.1038/s41375-022-01802-y 
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c6fa/9898037/b3de1ef0c449/41375_2022_1802_Fig1_HTML.gif
-  description: test
+  description: In this study, we assessed the impact of nine recurrently mutated genes (BIRC3, EGR2, MYD88, NFKBIE, NOTCH1, POT1, SF3B1, TP53, and XPO1) in pre-treatment samples from 4580 patients with CLL, using time-to-first-treatment (TTFT) as the primary end-point in relation to IGHV gene SHM status.
   tags:
-  - new20
+  - gene mutations 
 
 - id: DOI:10.1038/s41417-023-00602-5 
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab4e/10353928/45cf132529b3/41417_2023_602_Fig1_HTML.gif
-  description: test
+  description:
   tags:
-  - new21
+  - Breg
 
 - id: DOI:10.3390/ijms242417623 
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c4fd/10744074/f5aec48d61d8/ijms-24-17623-g001.gif
-  description: test
+  description:
   tags:
-  - new22
+  - β-catenin
+  - microenvironment
+  - BTK
+  - stromal cells
 
 # 2022
 - id: DOI:10.3389/fimmu.2022.1029759 
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2175/9647545/26f5e40f9d69/fimmu-13-1029759-g001.gif
-  description: test
+  description:
   tags:
-  - new23
+  - IRAP
 
 - id: DOI:10.46439/immunol.1.011
   type: paper
@@ -219,103 +234,77 @@
   image: https://www.probiologists.com/public/assets/images/uploads/image-1734346230-1.jpg
   description: test
   tags:
-  - new24
+  - Nurse cells
+  - microenvironment
 
 - id: DOI:10.1002/jha2.434 
   type: paper
   group: featured
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e854/9422018/c81acc105d21/JHA2-3-913-g002.gif
-  description: test
+  description: In the present study, we have identified the dihydroorotate dehydrogenase (DHODH), an essential enzyme for the de novo biosynthesis of pyrimidine-based nucleotides, to be overexpressed in MCL in comparison to healthy peripheral blood mononuclear cells (PBMC).
   tags:
-  - new25
+  - DHODH
 
 - id: DOI:10.1684/abc.2021.1692 
   type: paper
   group: featured
-  description: test
+  description:
   tags:
-  - new26
 
 - id: DOI:10.3389/fonc.2022.841630
   type: paper
   group: featured
-  description: test
+  description:
   tags:
-  - new27
+  - P53 Mutation
 
 - id: DOI:10.1002/ajh.26479 
   type: paper
   group: featured
-  description: test
+  description:
   tags:
-  - new28
+  - P53 Mutation
 
 - id:  DOI:10.1182/bloodadvances.2021006169 
   type: paper
   group: featured
   image: hhttps://cdn.ncbi.nlm.nih.gov/pmc/blobs/6e07/9631672/7c6637fe3aee/advancesADV2021006169absf1.jpg
-  description: test
+  description:
   tags:
-  - new29
-
-
-
-- id: doi:10.1002/ajh.27357
-  type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/91d6e268-82bb-41e6-b781-37022f1347a2/ajh27357-fig-0001-m.jpg
-  description: test
-  tags:
-  - test2
-
-- id: doi:10.3390/ijms242417623
-  type: paper
-  image: https://www.mdpi.com/ijms/ijms-24-17623/article_deploy/html/images/ijms-24-17623-g001-550.jpg
-  description: test
-  tags:
-  - test3
-
-- id: doi:10.1038/s41417-023-00602-5
-  type: paper
-  image: https://www.nature.com/articles/s41417-023-00602-5/figures/1
-  description: test
-  tags:
-  - test4
-
-- id: doi:10.1182/bloodadvances.2021006169
-  type: paper
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/6/16/10.1182_bloodadvances.2021006169/4/m_advancesadv2021006169absf1.png?Expires=1775782048&Signature=SHIdrBVHR8H0FoRtDSL2qr2h80t0gCl4Ss1H8kDoNN-utSRrowXc-sckZ8UPSrhkSR1OwaFKMBVkSEwnDaKih56P70uPyI7KjpDJ3fG~T-~s8xTLHUCKcjVNhylDg5qaxYlzYCmetFbTZ3DrKpLM6J7jtJ~cj7WlyfS37ZACCu-TMSFmMS1n85MQ2PtFQcimMxvJoZAn24KZu~tfxGlMSIxkIs7CdeXCu5m4bkk~YTyRFqtKuw7cDKdbSrWdQU4l9yXv4qRjFKVS0VY~ZDuZdTxcZN27~efe3ExiFUSFzwGpIlKWqwWU9x0qg39RjfmlpH1iM-lnWrcw6gQQCNp7SA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  description: test
-  tags:
-  - test5
-
-- id: doi:10.3389/fonc.2022.841630
-  type: paper
-  tags:
-  - test6
+  - Stromal cell
+  - nurselike cells
+  - CCL21
 
 - id: doi:10.1016/j.ccell.2021.02.003
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1535610821001057-fx1.jpg
+  description: Mutant Ikzf3 alters DNA binding specificity and target selection, leading to hyperactivation of B cell receptor (BCR) signaling, overexpression of nuclear factor κB (NF-κB) target genes, and development of CLL-like disease in elderly mice with a penetrance of ~40%. 
   tags:
-  - test7
+  - IKZF3
 
 - id: doi:10.1016/j.cellsig.2021.110079
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0898656821001686-gr1.jpg
   tags:
-  - test8
+  - Vav1
+  - Sykβ
+  - Catenin
+  - Migration
+
 
 - id: doi:10.1016/j.cellsig.2020.109673
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0898656820301509-gr1.jpg
   tags:
-  - test9
+  - BCR signalling
+  - APS
+  - Adaptor protein
 
 - id: doi:10.1038/s41388-020-1183-x
   type: paper
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41388-020-1183-x/MediaObjects/41388_2020_1183_Fig1_HTML.png
   tags:
-  - test10
+  - β-catenin
 
 - id: doi:10.1038/srep39766
   type: paper

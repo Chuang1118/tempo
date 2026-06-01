@@ -1,6 +1,6 @@
 ---
 name: Lilia Banaouas
-image:
+image: images/team/lilia-banaouas.jpeg
 role: undergrad
 description: Internship
 cosupervisors: Kevin Saitoski

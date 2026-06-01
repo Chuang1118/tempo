@@ -1,5 +1,5 @@
 ---
-title: Mechanosensing in the CLL microenvironment
+title: Mechano
 image: images/projects/Mechanosensing-in-the-CLL-microenvironment/Mechanosensing-in-the-CLL-microenvironment-graphical-abstract.png
 investigators: lola-ozenne
 supervisors: gregory-lazarian,laura-gardano

@@ -1,8 +1,8 @@
 ---
-title: Characterization of endosomal trafficking and BCR activation in leukemic B lymphocytes
+title: Trafficking-signalisation
 image: images/projects/characterization-of-endosomal-trafficking-and-BCR-activation/characterization-of-endosomal-trafficking-and-BCR-activation-graphical-abstract.png
-investigators: claudine-irles
-supervisors:
+investigators: wema-daoudou, lucas-vauchot
+supervisors: claudine-irles
 collaborators: L. Saveanu
 start_date: 2024-10-01
 end_date:

@@ -1,7 +1,7 @@
 ---
 title: MIAMO-CLL
 image: images/projects/miamo-cll/miamo-cll-graphical-abstract.png
-investigators: claudine-irles
+investigators: claudine-irles, christine-le-roy, fanny-baran-marszak, Pierre Olivier Schischmanoff, Vincent Lévy
 supervisors:
 collaborators:
 start_date: 2024-01-01

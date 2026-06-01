@@ -1,7 +1,7 @@
 ---
-title: 3D modelling of the CLL microenvironment
+title: 3D
 image: images/projects/3D-modelling-of-the-CLL-microenvironment/3D-modelling-of-the-CLL-microenvironment-graphical-abstract.png
-investigators:
+investigators: emeline-saindoy
 supervisors: gregory-lazarian,laura-gardano
 collaborators:
 start_date: 2025-01-01

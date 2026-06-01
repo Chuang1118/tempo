@@ -9,6 +9,7 @@ title: topics3
 ## Topics 3 staff
 
 {% include list.html data="members" component="portrait" filter="name == 'Claudine Irles'" style="small" show_name=true %}
+{% include list.html data="members" component="portrait" filter="name == 'Wema Daoudou'" style="small" show_name=true %}
 {% include list.html data="members" component="portrait" filter="name == 'Lucas Vauchot'" style="small" show_name=true %}
 {% include list.html data="members" component="portrait" filter="name == 'Kiruthiga Kannaya'" style="small" show_name=true %}
 {% include list.html data="members" component="portrait" filter="name == 'Chuang Dong'" style="small" show_name=true %}

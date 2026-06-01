@@ -1,5 +1,5 @@
 ---
-title: Study of alterations in the communication and activation mechanisms of mast cells and B lymphocytes in ageing and neoplastic diseases
+title: Mast-cells-study
 image: images/projects/study-of-alterations/study-of-alterations-graphical-abstract.png
 investigators: claudine-irles
 supervisors:
@@ -9,6 +9,7 @@ end_date:
 link:
 tags:
   - topic1
+  - collab
 ---
 
 <!-- excerpt start -->

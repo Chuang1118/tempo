@@ -24,6 +24,8 @@ Nadine Varin-Blank
 
 Christine LE-ROY
 
+Vincent LEVY
+
 **Administrative manager**
 
 Émilie MONNET

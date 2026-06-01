@@ -61,3 +61,25 @@ The MAP platform provides access to multiplex biomarker analysis for basic, tran
   text=text
 %}
 
+{% include section.html %}
+## Molecular biology facility
+
+{% capture text %}
+Molecular biology facility at USPN & Avicenne Hospital is dedicated to transnational research using innovative genomic approaches.
+{%
+  include button.html
+  link="technology_data/bio_mol"
+  text="READ MORE"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/technology/bio_mol.png"
+  title="Molecular biology facility for translational research"
+  text=text
+%}
+
+

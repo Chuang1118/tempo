@@ -2,6 +2,7 @@
 name: Wema Daoudou
 image: images/team/wema-daoudou.jpg
 role: phd
+cosupervisors: Claudine Irles
 aliases:
   - W. Daoudou
   - W Daoudou
