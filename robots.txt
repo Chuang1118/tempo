@@ -1,1 +1,1 @@
-Sitemap: https://chuang1118.github.io/tempo/sitemap.xml
+Sitemap: http://simhel.univ-spn.fr/sitemap.xml
