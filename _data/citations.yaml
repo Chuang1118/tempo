@@ -936,8 +936,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.95.15.8750
-  title: Male-specific transcription initiation of the<i>C4-Slp</i>gene in mouse liver
-    follows activation of STAT5
+  title: "Male-specific transcription initiation of the\n                    <i>C4-Slp</i>\n\
+    \                    gene in mouse liver follows activation of STAT5"
   authors:
   - N. Varin-Blank
   - E. Dondi
@@ -999,7 +999,7 @@
   - A. Weyer
   - U. Blank
   publisher: International Archives of Allergy and Immunology
-  date: '1993-01-01'
+  date: '2009-09-02'
   link: https://doi.org/b99xm7
   orcid: 0000-0003-2769-018X
   nadine-varin: true
